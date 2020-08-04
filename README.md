@@ -1,35 +1,19 @@
-# Landing Page Jekyll theme
+# A Jekyll Image Gallery
 
-Jekyll theme based on [landing-page bootstrap theme ](http://startbootstrap.com/templates/landing-page/)
+This website illustrates how to integrate a lightGallery/Isotope photo gallery into a Jekyll website. Two example galleries are included. This solution is GitHub Pages friendly and does not require a custom plugin.
 
-## How to use
- - Place a image in `/img/services/`
- - Create posts to display your services. Use the follow as an example:
+## Installing
 
-```txt
----
-layout: default
-img: ipad.png
-category: Services
-title: The service title
----
-The description of this service
-```
+1. Clone the git repo: `git clone https://github.com/opieters/jekyll-image-gallery-example.git`
+2. Change folder: `cd jekyll-image-gallery-example`
+3. Install Jekyll: `gem install jekyll`
 
-## Demo
-View this jekyll theme in action [here](https://swcool.github.io/landing-page-theme)
+## Run the Website and Make It Your Own
 
-## Screenshot
-![screenshot](https://raw.githubusercontent.com/swcool/landing-page-theme/master/img/screenshot.png)
+Run the website with `jekyll s`. Or just view the [GitHub Pages version](https://opieters.github.io/jekyll-image-gallery-example/). To [view the gallery](https://opieters.github.io/jekyll-image-gallery-example/photography/) click on the photography menu item.
 
-===
-
-For more Jekyll details, read [documentation](http://jekyllrb.com/).
-This Jekyll theme used [Freelancer Jekyll theme](https://github.com/jeromelachaud/freelancer-theme/) as reference.
+[This blogpost](http://www.olivierpieters.be/blog/2016/02/26/creating-a-jekyll-image-gallery.html) explains different parts of the gallery and design choices. Use this guide and the files in this repo to make your own photo gallery.
 
 ## License
-The contents of this repository are licensed under the [Apache
-2.0](http://www.apache.org/licenses/LICENSE-2.0.html).
 
-## Version
-1.0.1
+The code is licensed under MIT license (see LICENSE-CODE.md). The images in the `assets/photography` folder are licensed under CC-BY-NC-SA license (see LICENSE-IMAGES.md).
