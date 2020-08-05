@@ -14,7 +14,7 @@ from os.path import isfile, join
 output_file = "_data/galleries/random-pics.yml"
 input_file = output_file
 image_path = "random-pics"
-extensions= ['jpg', 'png']
+extensions= ['jpg', 'png', 'JPG', 'PNG', 'jpeg', 'JPEG']
 
 # set correct path
 path = join("assets/photography/", image_path)
