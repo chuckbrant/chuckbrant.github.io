@@ -2,16 +2,18 @@ picture_path: random-pics
 pictures:
 - filename: 23795288_10155400178128271_4960257223362092306_n.jp
   original: 23795288_10155400178128271_4960257223362092306_n.jp-500x627.jpg
-  sizes: []
+  sizes:
+  - 23795288_10155400178128271_4960257223362092306_n.jp-500x627.png
   thumbnail: 23795288_10155400178128271_4960257223362092306_n.jp-500x627.jpg
 - filename: Almost Happy Chuck.pn
   original: Almost Happy Chuck.pn-400x500.png
   sizes: []
   thumbnail: Almost Happy Chuck.pn-400x500.png
 - filename: SpyvsSPy.jp
-  original: SpyvsSPy.jp-1440x938.jpg
-  sizes: []
-  thumbnail: SpyvsSPy.jp-1440x938.jpg
+  original: SpyvsSPy.jp-1440x938.png
+  sizes:
+  - SpyvsSPy.jp-1440x938.jpg
+  thumbnail: SpyvsSPy.jp-1440x938.png
 - filename: Screen Shot 2018-01
   original: Screen Shot 2018-01-478x484.png
   sizes:
@@ -30,24 +32,29 @@ pictures:
   sizes: []
   thumbnail: Transmission_icon.pn-512x512.png
 - filename: 5b1d35636953e (1).jpe
-  original: 5b1d35636953e (1).jpe-584x876.jpeg
-  sizes: []
-  thumbnail: 5b1d35636953e (1).jpe-584x876.jpeg
+  original: 5b1d35636953e (1).jpe-584x876.png
+  sizes:
+  - 5b1d35636953e (1).jpe-584x876.jpeg
+  thumbnail: 5b1d35636953e (1).jpe-584x876.png
 - filename: File Jan 21, 9 43 30 PM.jpe
-  original: File Jan 21, 9 43 30 PM.jpe-1024x765.jpeg
-  sizes: []
-  thumbnail: File Jan 21, 9 43 30 PM.jpe-1024x765.jpeg
+  original: File Jan 21, 9 43 30 PM.jpe-1024x765.png
+  sizes:
+  - File Jan 21, 9 43 30 PM.jpe-1024x765.jpeg
+  thumbnail: File Jan 21, 9 43 30 PM.jpe-1024x765.png
 - filename: unthinking-respect-for-authority-is-the-greatest-enemy-of-truth
   original: unthinking-respect-for-authority-is-the-greatest-enemy-of-truth-500x305.jpg
-  sizes: []
+  sizes:
+  - unthinking-respect-for-authority-is-the-greatest-enemy-of-truth-500x305.png
   thumbnail: unthinking-respect-for-authority-is-the-greatest-enemy-of-truth-500x305.jpg
 - filename: 271AC330-21BF-4783-B1CC-4E710D540E29-10422
-  original: 271AC330-21BF-4783-B1CC-4E710D540E29-10422-230x219.JPEG
-  sizes: []
-  thumbnail: 271AC330-21BF-4783-B1CC-4E710D540E29-10422-230x219.JPEG
+  original: 271AC330-21BF-4783-B1CC-4E710D540E29-10422-230x219.png
+  sizes:
+  - 271AC330-21BF-4783-B1CC-4E710D540E29-10422-230x219.JPEG
+  thumbnail: 271AC330-21BF-4783-B1CC-4E710D540E29-10422-230x219.png
 - filename: getty_1032223648_2000122320009280192_369399.jp
   original: getty_1032223648_2000122320009280192_369399.jp-1940x900.jpg
-  sizes: []
+  sizes:
+  - getty_1032223648_2000122320009280192_369399.jp-1940x900.png
   thumbnail: getty_1032223648_2000122320009280192_369399.jp-1940x900.jpg
 - filename: cbrant.pn
   original: cbrant.pn-74x74.png
@@ -55,7 +62,8 @@ pictures:
   thumbnail: cbrant.pn-74x74.png
 - filename: 27857860_10215143063871743_2978156086158947201_n.jp
   original: 27857860_10215143063871743_2978156086158947201_n.jp-720x960.jpg
-  sizes: []
+  sizes:
+  - 27857860_10215143063871743_2978156086158947201_n.jp-720x960.png
   thumbnail: 27857860_10215143063871743_2978156086158947201_n.jp-720x960.jpg
 - filename: 25025331.pn
   original: 25025331.pn-400x400.png
@@ -63,24 +71,35 @@ pictures:
   thumbnail: 25025331.pn-400x400.png
 - filename: IMG_0166.JP
   original: IMG_0166.JP-1536x2048.JPG
-  sizes: []
+  sizes:
+  - IMG_0166.JP-1536x2048.png
   thumbnail: IMG_0166.JP-1536x2048.JPG
 - filename: IMG_2167.JP
-  original: IMG_2167.JP-4032x3024.JPG
-  sizes: []
-  thumbnail: IMG_2167.JP-4032x3024.JPG
+  original: IMG_2167.JP-4032x3024.png
+  sizes:
+  - IMG_2167.JP-4032x3024.JPG
+  thumbnail: IMG_2167.JP-4032x3024.png
 - filename: 2011_wallpaper_07_1920_1200.jp
-  original: 2011_wallpaper_07_1920_1200.jp-1920x1200.jpg
-  sizes: []
-  thumbnail: 2011_wallpaper_07_1920_1200.jp-1920x1200.jpg
+  original: 2011_wallpaper_07_1920_1200.jp-1920x1200.png
+  sizes:
+  - 2011_wallpaper_07_1920_1200.jp-1920x1200.jpg
+  thumbnail: 2011_wallpaper_07_1920_1200.jp-1920x1200.png
 - filename: IMG_0164.JP
-  original: IMG_0164.JP-1080x1080.JPG
-  sizes: []
-  thumbnail: IMG_0164.JP-1080x1080.JPG
+  original: IMG_0164.JP-1080x1080.png
+  sizes:
+  - IMG_0164.JP-1080x1080.JPG
+  thumbnail: IMG_0164.JP-1080x1080.png
 - filename: ooda-loop
   original: ooda-loop-300x298.png
   sizes: []
   thumbnail: ooda-loop-300x298.png
+- filename: Aeon.Flux.12
+  original: Aeon.Flux.12-200x155.png
+  sizes:
+  - Aeon.Flux.12-200x155.png
+  - Aeon.Flux.12-200x155.png
+  - Aeon.Flux.12-200x155.png
+  thumbnail: Aeon.Flux.12-200x155.png
 - filename: time_machine.pn
   original: time_machine.pn-256x256.png
   sizes: []
@@ -95,15 +114,18 @@ pictures:
   thumbnail: Holly_Blog_Illustrations_Image-1-800x365.png
 - filename: File Mar 03, 7 42 45 AM.jpe
   original: File Mar 03, 7 42 45 AM.jpe-1080x1350.jpeg
-  sizes: []
+  sizes:
+  - File Mar 03, 7 42 45 AM.jpe-1080x1350.png
   thumbnail: File Mar 03, 7 42 45 AM.jpe-1080x1350.jpeg
 - filename: Chuck Brant 08 x 10.jp
-  original: Chuck Brant 08 x 10.jp-2800x3500.jpg
-  sizes: []
-  thumbnail: Chuck Brant 08 x 10.jp-2800x3500.jpg
+  original: Chuck Brant 08 x 10.jp-2800x3500.png
+  sizes:
+  - Chuck Brant 08 x 10.jp-2800x3500.jpg
+  thumbnail: Chuck Brant 08 x 10.jp-2800x3500.png
 - filename: IMG_4070.JP
   original: IMG_4070.JP-3264x2448.JPG
-  sizes: []
+  sizes:
+  - IMG_4070.JP-3264x2448.png
   thumbnail: IMG_4070.JP-3264x2448.JPG
 - filename: Screen Shot 2017-06
   original: Screen Shot 2017-06-70x84.png
@@ -111,28 +133,34 @@ pictures:
   thumbnail: Screen Shot 2017-06-70x84.png
 - filename: 739327C4-9831-4CA0-82F1-BA110781DF4D-10422
   original: 739327C4-9831-4CA0-82F1-BA110781DF4D-10422-480x480.JPEG
-  sizes: []
+  sizes:
+  - 739327C4-9831-4CA0-82F1-BA110781DF4D-10422-480x480.png
   thumbnail: 739327C4-9831-4CA0-82F1-BA110781DF4D-10422-480x480.JPEG
 - filename: george_warshington_by_sharpwriter
   original: george_warshington_by_sharpwriter-1191x670.jpg
-  sizes: []
+  sizes:
+  - george_warshington_by_sharpwriter-1191x670.png
   thumbnail: george_warshington_by_sharpwriter-1191x670.jpg
 - filename: Monopoly-guy-smoking
-  original: Monopoly-guy-smoking-234x235.jpg
-  sizes: []
-  thumbnail: Monopoly-guy-smoking-234x235.jpg
+  original: Monopoly-guy-smoking-234x235.png
+  sizes:
+  - Monopoly-guy-smoking-234x235.jpg
+  thumbnail: Monopoly-guy-smoking-234x235.png
 - filename: 19905420_10213317674078139_3608756675035842097_n.jp
   original: 19905420_10213317674078139_3608756675035842097_n.jp-960x960.jpg
-  sizes: []
+  sizes:
+  - 19905420_10213317674078139_3608756675035842097_n.jp-960x960.png
   thumbnail: 19905420_10213317674078139_3608756675035842097_n.jp-960x960.jpg
 - filename: 18358646_814685595350688_7063853622996886297_o.jp
-  original: 18358646_814685595350688_7063853622996886297_o.jp-1536x2048.jpg
-  sizes: []
-  thumbnail: 18358646_814685595350688_7063853622996886297_o.jp-1536x2048.jpg
+  original: 18358646_814685595350688_7063853622996886297_o.jp-1536x2048.png
+  sizes:
+  - 18358646_814685595350688_7063853622996886297_o.jp-1536x2048.jpg
+  thumbnail: 18358646_814685595350688_7063853622996886297_o.jp-1536x2048.png
 - filename: 27751497_10215695332722852_1654003696363459592_n.jp
-  original: 27751497_10215695332722852_1654003696363459592_n.jp-441x503.jpg
-  sizes: []
-  thumbnail: 27751497_10215695332722852_1654003696363459592_n.jp-441x503.jpg
+  original: 27751497_10215695332722852_1654003696363459592_n.jp-441x503.png
+  sizes:
+  - 27751497_10215695332722852_1654003696363459592_n.jp-441x503.jpg
+  thumbnail: 27751497_10215695332722852_1654003696363459592_n.jp-441x503.png
 - filename: youtube
   original: youtube-512x512.png
   sizes: []
@@ -142,9 +170,10 @@ pictures:
   sizes: []
   thumbnail: Youtube.pn-800x800.png
 - filename: Not_Equal_Meme_Redo_600_774_60_s@1x.jp
-  original: Not_Equal_Meme_Redo_600_774_60_s@1x.jp-600x774.jpg
-  sizes: []
-  thumbnail: Not_Equal_Meme_Redo_600_774_60_s@1x.jp-600x774.jpg
+  original: Not_Equal_Meme_Redo_600_774_60_s@1x.jp-600x774.png
+  sizes:
+  - Not_Equal_Meme_Redo_600_774_60_s@1x.jp-600x774.jpg
+  thumbnail: Not_Equal_Meme_Redo_600_774_60_s@1x.jp-600x774.png
 - filename: small
   original: small-256x256.png
   sizes: []
