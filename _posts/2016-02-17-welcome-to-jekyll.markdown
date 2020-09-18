@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Chuck's World!"
+title:  "Welcome to Chuck's World 2!"
 date:   2019-02-17 08:51:07 +0100
 categories: jekyll update
 ---
