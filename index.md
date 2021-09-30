@@ -13,6 +13,13 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 
 
+### Gooseberry Falls Sasha's Snake
+
+<a href="[Goose Berry Falls](https://photos.app.goo.gl/b5u9GtaoHWq35GbB8)" target="_blank" >
+<img src="assets/photo/snake.jpg" alt="drawing" width="200"/>
+</a>
+
+
 ### Old DIY Dinghy 
 
 <a href="https://photos.app.goo.gl/qZzt8H6ETvtiwqzu8" target="_blank" >
