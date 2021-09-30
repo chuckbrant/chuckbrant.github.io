@@ -13,7 +13,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 
 
-### Gooseberry Falls Sasha's Snake
+### Sept 2021 - Gooseberry
 
 <a href="https://photos.app.goo.gl/b5u9GtaoHWq35GbB8" target="_blank" >
 <img src="assets/photo/snake.jpg" alt="drawing" width="200"/>
