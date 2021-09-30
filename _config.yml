@@ -1,9 +1,6 @@
-
-title: Chuck's Rants, Roamings, Reviews and Random Stuff
-email: chuck.brant@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Welcome to Chuck's corner of the internet where I'll post the random stuff that intersts me.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://chuckbrant.github.io" # the base hostname & protocol for your site
-twitter_username: chuck_brant
-github_username:  chuckbrant
+title: Just Me
+logo: /assets/img/logo.png
+description: Chuck's Random Corner of the Internet
+show_downloads: true
+theme: jekyll-theme-minimal
+plugins: jekyll-seo-tag
