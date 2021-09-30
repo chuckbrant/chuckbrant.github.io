@@ -4,6 +4,6 @@ layout: default
 
 ## Welcome to another page
 
-_yay_ chuck 2
+_yay chuck 2_
 
 [back](./)
