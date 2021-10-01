@@ -172,7 +172,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 </p>
 
 
-### Old DIY Dinghy 
+### DIY Dinghy 
 
 <p style="text-align: center;"> 
 <a href="https://photos.app.goo.gl/qZzt8H6ETvtiwqzu8" target="_blank" >
