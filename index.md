@@ -23,6 +23,15 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 
 
+### Dec 2020 - Early Days and Moving  Serenity
+
+<p style="text-align: center;"> 
+<a href="https://photos.app.goo.gl/7wrgPFAVMiN8H5dG9" target="_blank" >
+<img src="assets/photo/MoveSerenity.jpg" width="400"/>
+</a>
+</p>
+
+
 ### Old DIY Dinghy 
 
 <p style="text-align: center;"> 
