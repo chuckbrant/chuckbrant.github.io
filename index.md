@@ -9,7 +9,7 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# simple ios change 2
+# simple ios change
 
 
 
@@ -31,12 +31,143 @@ There should be whitespace between paragraphs. We recommend including a README, 
 </a>
 </p>
 
+### California 2019
 
-### Amsterdam Dnd Paris 
+<p style="text-align: center;"> 
+<a href="https://photos.app.goo.gl/1JqrBLKDg8YHvW6s7" target="_blank" >
+<img src="assets/photo/cali2019.jpg" width="400"/>
+</a>
+</p>
+
+### Us 
+
+<p style="text-align: center;">
+<a href="https://photos.app.goo.gl/YFj8gSc8uvioK1iV8" target="_blank" >
+<img src="assets/photo/us.jpg" width="400"/>
+</a> 
+</p>
+
+
+
+### Family
+<p style="text-align: center;">
+<a href="https://photos.app.goo.gl/1WX7hDvZcrA29aPu6" target="_blank" >
+<img src="assets/photo/family.jpg" width="400"/>
+</a> 
+</p>
+
+### Wendi
+
+<p style="text-align: center;">
+<a href="https://photos.app.goo.gl/9pwkFwcVgzR1rqCx9" target="_blank" >
+<img src="assets/photo/wendi.jpg" width="400"/>
+</a>
+</p>
+
+### Chuck
+
+<p style="text-align: center;">
+<a href="https://photos.app.goo.gl/1EgxxWGK2BEH3WkX9" target="_blank" >
+<img src="assets/photo/chuck.jpg" width="400"/>
+</a>
+</p>
+
+### Sahsa
+
+<p style="text-align: center;">
+<a href="https://photos.app.goo.gl/xNYaqciaGmAnndKk8" target="_blank" >
+<img src="assets/photo/sasha.jpg" width="400"/>
+</a>
+</p>
+
+### Ezrie
+
+<p style="text-align: center;">
+<a href="https://photos.app.goo.gl/u5GC9879DLYiJsXa6" target="_blank" >
+<img src="assets/photo/ezrie.jpg" width="400"/>
+</a>
+</p>
+
+### Harris
+
+<p style="text-align: center;">
+<a href="https://photos.app.goo.gl/QypuRkPeBeaDjJ5u7" target="_blank" >
+<img src="assets/photo/harris.jpg" width="400"/>
+</a>
+</p>
+
+
+### Percy
+
+<p style="text-align: center;">
+<a href="https://photos.app.goo.gl/v5YLkmdQLjvVaQjVA" target="_blank" >
+<img src="assets/photo/percy.jpg" width="400"/>
+</a>
+</p>
+
+
+### Other Pets
+
+<p style="text-align: center;">
+<a href="https://photos.app.goo.gl/ZWchp5yo9cLSi59F9" target="_blank" >
+<img src="assets/photo/other.jpg" width="400"/>
+</a>
+</p>
+
+
+
+### Older Pictures
+
+<p style="text-align: center;">
+<a href="https://photos.app.goo.gl/7Qo6oe7d6dRdv2LH6" target="_blank" >
+<img src="assets/photo/olderpictures.jpg" width="400"/>
+</a> 
+</p>
+
+
+
+### Amsterdam and Paris 
 
 <p style="text-align: center;"> 
 <a href="https://photos.app.goo.gl/ChMPKJZsdsexknQZA" target="_blank" >
 <img src="assets/photo/amsterdam.jpg" width="400"/>
+</a>
+</p>
+
+
+
+### Disney
+
+<p style="text-align: center;">
+<a href="https://photos.app.goo.gl/Wd9MbfQ9QRTgogRx6" target="_blank" >
+<img src="assets/photo/disney.jpg" width="400"/>
+</a>
+</p>
+
+### Ireland
+
+<p style="text-align: center;">
+<a href="https://photos.app.goo.gl/5nGtQNTEm73ytqJT8" target="_blank" >
+<img src="assets/photo/ireland.jpg" width="400"/>
+</a>
+</p>
+
+
+
+### New Zealand 
+
+<p style="text-align: center;">
+<a href="https://photos.app.goo.gl/su21gVDv1k6Ey4RE7" target="_blank" >
+<img src="assets/photo/newzealand.jpg" width="400"/>
+</a>
+</p>
+
+
+### NYC
+
+<p style="text-align: center;">
+<a href="https://photos.app.goo.gl/HRExHRcDcCbzQJ9DA" target="_blank" >
+<img src="assets/photo/nyc.jpg" width="400"/>
 </a>
 </p>
 
