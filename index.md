@@ -32,6 +32,15 @@ There should be whitespace between paragraphs. We recommend including a README, 
 </p>
 
 
+### Amsterdam Dnd Paris 
+
+<p style="text-align: center;"> 
+<a href="https://photos.app.goo.gl/ChMPKJZsdsexknQZA" target="_blank" >
+<img src="assets/photo/amsterdam.jpg" width="400"/>
+</a>
+</p>
+
+
 ### Old DIY Dinghy 
 
 <p style="text-align: center;"> 
