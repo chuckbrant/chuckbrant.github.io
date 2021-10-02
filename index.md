@@ -9,6 +9,15 @@ layout: default
 # Photo Albums of Family and Trips
 
 
+### October 2021 - Holden Beach
+
+<p style="text-align: center;"> 
+<a href="https://photos.app.goo.gl/ThmA4dobGFDaG3ybA" target="_blank" >
+<img src="assets/photo/holden.jpg" width="350"/>
+</a>
+</p>
+
+
 
 ### Sept 2021 - Gooseberry
 
