@@ -184,7 +184,7 @@ https://photos.app.goo.gl/fCPs37FjM8tpzB9n6
 ### NYC
 
 <p style="text-align: center;">
-<a href="https://photos.app.goo.gl/HRExHRcDcCbzQJ9DA" target="_blank" >
+<a href="https://photos.app.goo.gl/yaDHcgqi4rqbM7Ft6" target="_blank" >
 <img src="assets/photo/nyc.jpg" width="350"/>
 </a>
 </p>
