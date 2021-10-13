@@ -13,6 +13,8 @@ https://photos.app.goo.gl/fCPs37FjM8tpzB9n6
 
 ### October 2021 - Hendersonville
 
+We had a quick overnight visit to Sasha.  We visited a couple of parks, a sunflower field with 20 varieties.  We ate at a great food truck and just had a great visit.
+
 <p style="text-align: center;"> 
 <a href="https://photos.app.goo.gl/fCPs37FjM8tpzB9n6" target="_blank" >
 <img src="assets/photo/hendersonville.jpg" width="350"/>
