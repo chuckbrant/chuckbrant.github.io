@@ -16,7 +16,7 @@ We are heading to the annual boat show, looking for life jackets and to take a d
 
 <p style="text-align: center;"> 
 <a href="https://photos.app.goo.gl/vdxsjAzMCHqAgjzUA" target="_blank" >
-<img src="assets/photo/placeholder.jpg" width="350"/>
+<img src="assets/photo/Annapolis.HEIC" width="350"/>
 </a>
 </p>
 
