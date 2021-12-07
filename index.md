@@ -16,7 +16,7 @@ We stayed with Mark and Tiffini and "crewed" their very nice 34' sailboat out of
 
 <p style="text-align: center;"> 
 <a href="https://photos.app.goo.gl/cDnqGoxbovXdwcvk7" target="_blank" >
-<img src="assets/photo/floatilla2021.jpg" width="350"/>
+<img src="assets/photo/flotilla2021.jpg" width="350"/>
 </a>
 </p>
 
