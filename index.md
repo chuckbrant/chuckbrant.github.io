@@ -10,9 +10,22 @@ layout: default
 
 
 
+### December 2021 - New Bern Floatilla
+
+We stayed with Mark and Tiffini and "crewed" their very nice 34' sailboat out of New Bern and took part in the holiday floatilla. 
+
+<p style="text-align: center;"> 
+<a href="https://photos.app.goo.gl/cDnqGoxbovXdwcvk7" target="_blank" >
+<img src="assets/photo/floatilla2021.jpg" width="350"/>
+</a>
+</p>
+
+
+
+
 ### October 2021 - Annapolis Boat Show
 
-We are heading to the annual boat show, looking for life jackets and to take a docking class, ours and most peoples biggest stressors 
+We are heading to the annual boat show, looking for life jackets and to look at some pretty boats
 
 <p style="text-align: center;"> 
 <a href="https://photos.app.goo.gl/vdxsjAzMCHqAgjzUA" target="_blank" >
