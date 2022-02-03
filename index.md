@@ -16,7 +16,7 @@ Heading to Charleston to see if there is a potential to live and sail there.  It
 
 <p style="text-align: center;"> 
 <a href="https://photos.app.goo.gl/hnPuBqUPNs3RkoVz6" target="_blank" >
-<img src="assets/photo/charleston.jpg" width="350"/>
+<img src="assets/photo/charleston1.jpg" width="350"/>
 </a>
 </p>
 
