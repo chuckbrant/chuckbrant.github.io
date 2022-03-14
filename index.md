@@ -9,6 +9,17 @@ layout: default
 # Photo Albums of Family and Trips
 
 
+### March 2022 - New Bern NC
+
+Spent time on New Bern to work on the boat, enjoy the town and spend time with Sasha and Wendi's parents who took their RV down.  It was a cute house, and working remote went well
+
+<p style="text-align: center;"> 
+<a href="https://photos.app.goo.gl/L3oFFWBZ3ec9mcKN7" target="_blank" >
+<img src="assets/photo/newbern.jpg" width="350"/>
+</a>
+</p>
+
+
 
 ### Feb 2022 - Charlston SC
 
