@@ -9,6 +9,33 @@ layout: default
 # Photo Albums of Family and Trips
 
 
+### New House in New Bern NC
+
+Some random pictures of our new place in New Bern, NC.
+
+<p style="text-align: center;"> 
+<a href="https://photos.app.goo.gl/uQgejpx2wHddxjed8" target="_blank" >
+<img src="assets/photo/House.New.Bern.jpg" width="350"/>
+</a>
+</p>
+
+
+
+### March 2022 - New Bern NC
+
+Spent time on New Bern to work on the boat, enjoy the town and spend time with Sasha and Wendi's parents who took their RV down.  It was a cute house, and working remote went well
+
+<p style="text-align: center;"> 
+<a href="https://photos.app.goo.gl/L3oFFWBZ3ec9mcKN7" target="_blank" >
+<img src="assets/photo/newbern.jpg" width="350"/>
+</a>
+</p>
+
+
+
+### Feb 2022 - Charlston SC
+
+Heading to Charleston to see if there is a potential to live and sail there.  It is no further from the Ashville area than Durham, NC.  We will also get to see my sister and brother-in-law when there, and will work 1 of the 2 weeks we are in SC.
 ### March 2022 - New Bern NC
 
 Spent time on New Bern to work on the boat, enjoy the town and spend time with Sasha and Wendi's parents who took their RV down.  It was a cute house, and working remote went well
