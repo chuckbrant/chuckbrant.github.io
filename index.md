@@ -8,6 +8,15 @@ layout: default
 
 # Photo Albums of Family and Trips
 
+### Bears in New Bern NC
+
+Selfies with the Bearsome random pictures of our new place in New Bern, NC.  There are a lot of bears around town, so it will take a while to capture them all
+
+<p style="text-align: center;"> 
+<a href="https://photos.app.goo.gl/UvuaUrUZVGP5QrS67" target="_blank" >
+<img src="assets/photo/bears.jpg" width="350"/>
+</a>
+</p>
 
 ### New House in New Bern NC
 
