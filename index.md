@@ -14,7 +14,7 @@ Selfies with the Bearsome random pictures of our new place in New Bern, NC.  The
 
 <p style="text-align: center;"> 
 <a href="https://photos.app.goo.gl/UvuaUrUZVGP5QrS67" target="_blank" >
-<img src="assets/photo/bears.jpg" width="350"/>
+<img src="assets/photo/bears.png" width="350"/>
 </a>
 </p>
 
