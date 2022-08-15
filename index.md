@@ -14,7 +14,7 @@ Went to Richmond just to get out of town for the weekend and really liked it.   
 
 <p style="text-align: center;"> 
 <a href="https://photos.app.goo.gl/DDgYeNDfKmQSQZeH6" target="_blank" >
-<img src="assets/photo/Richmod.jpg" width="350"/>
+<img src="assets/photo/Richmond.jpg" width="350"/>
 </a>
 </p>
 
