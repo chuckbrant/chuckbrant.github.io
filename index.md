@@ -10,7 +10,7 @@ layout: default
 
 ### Aug 2022 - Richmod VA 
 
-Went to Richmond just to get out of town for the weekend and really liked it.   Basically, spend time in the Fan neighborhood and down at the James River.  There is a lot to do, great food and a good vibe.  We did a canal and tolley tour and spent time on a few of the islands in the James river and walked the "pipe walk".  Saw the reamins of the Civil War POW camp and losts of street art. There was a bakery less than a 100 yards from our Air BnB what had gluten free treats.
+Went to Richmond just to get out of town for the weekend and really liked it.   Basically, spend time in the Fan neighborhood and down at the James River.  There is a lot to do, great food and a good vibe.  We did a canal and tolley tour and spent time on a few of the islands in the James River and walked the "pipe walk".  Saw the reamins of the Civil War POW camp and lots of street art. There was a bakery less than a 100 yards from our Air BnB what had gluten free treats.
 
 <p style="text-align: center;"> 
 <a href="https://photos.app.goo.gl/DDgYeNDfKmQSQZeH6" target="_blank" >
@@ -56,33 +56,9 @@ Spent time on New Bern to work on the boat, enjoy the town and spend time with S
 ### Feb 2022 - Charlston SC
 
 Heading to Charleston to see if there is a potential to live and sail there.  It is no further from the Ashville area than Durham, NC.  We will also get to see my sister and brother-in-law when there, and will work 1 of the 2 weeks we are in SC.
-### March 2022 - New Bern NC
-
-Spent time on New Bern to work on the boat, enjoy the town and spend time with Sasha and Wendi's parents who took their RV down.  It was a cute house, and working remote went well
-
-<p style="text-align: center;"> 
-<a href="https://photos.app.goo.gl/L3oFFWBZ3ec9mcKN7" target="_blank" >
-<img src="assets/photo/newbern.jpg" width="350"/>
-</a>
-</p>
 
 
-### August 2022 - Richmond VA
 
-Heading to Richmond VA for the weekend and it was amazing.  There was a lot to see at the James River and a ton of museums that we will need to go back to see.  We saw the canals and a Belle Island that was used a prison camp during the civil war.
-
-<p style=“text-align: center;”> 
-<a href=“https://photos.app.goo.gl/DDgYeNDfKmQSQZeH6” target=“_blank” >
-<img src=“assets/photo/Richmond.jpg” width=“350”/>
-</a>
-</p>
-
-
-https://photos.app.goo.gl/DDgYeNDfKmQSQZeH6
-
-### Feb 2022 - Charlston SC
-
-Heading to Charleston to see if there is a potential to live and sail there.  It is no further from the Ashville area than Durham, NC.  We will also get to see my sister and brother-in-law when there, and will work 1 of the 2 weeks we are in SC.
 
 <p style="text-align: center;"> 
 <a href="https://photos.app.goo.gl/hnPuBqUPNs3RkoVz6" target="_blank" >
