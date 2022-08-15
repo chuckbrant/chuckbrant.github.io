@@ -9,6 +9,18 @@ layout: default
 # Photo Albums of Family and Trips
 
 
+### August 2022 - Richmond VA
+
+Heading to Richmond VA for the weekend and it was amazing.  There was a lot to see at the James River and a ton of museums that we will need to go back to see.  We saw the canals and a Belle Island that was used a prison camp during the civil war.
+
+<p style=“text-align: center;”> 
+<a href=“https://photos.app.goo.gl/DDgYeNDfKmQSQZeH6” target=“_blank” >
+<img src=“assets/photo/Richmond.jpg” width=“350”/>
+</a>
+</p>
+
+
+https://photos.app.goo.gl/DDgYeNDfKmQSQZeH6
 
 ### Feb 2022 - Charlston SC
 
