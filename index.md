@@ -8,6 +8,17 @@ layout: default
 
 # Photo Albums of Family and Trips
 
+### Aug 2022 - Richmod VA 
+
+Went to Richmond just to get out of town for the weekend and really liked it.   Basically, spend time in the Fan neighborhood and down at the James River.  There is a lot to do, great food and a good vibe.  We did a canal and tolley tour and spent time on a few of the islands in the James river and walked the "pipe walk".  Saw the reamins of the Civil War POW camp and losts of street art. There was a bakery less than a 100 yards from our Air BnB what had gluten free treats.
+
+<p style="text-align: center;"> 
+<a href="https://photos.app.goo.gl/DDgYeNDfKmQSQZeH6" target="_blank" >
+<img src="assets/photo/Richmod.jpg" width="350"/>
+</a>
+</p>
+
+
 ### Bears in New Bern NC
 
 Selfies with the Bearsome random pictures of our new place in New Bern, NC.  There are a lot of bears around town, so it will take a while to capture them all
