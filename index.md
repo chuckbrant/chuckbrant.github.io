@@ -13,7 +13,7 @@ layout: default
 We are going to Denver to see my nephew and his fiance.  They are going to be married next summer and are excited to meet the love of his life.  The weather report is encouraging, but I’m not packing my shorts and sandals, much hiking is planned.  Seeing Gryffin at Red Rocks in is on the agenda, hiking and a lot of gluten-free food as the majority of us, have celiac.
 
 <p style="text-align: center;"> 
-<a href="https://photos.app.goo.gl/6ykD6Y8wmtARK8mx7" target="_blank" >
+<a href="https://www.icloud.com/sharedalbum/#B0l5ejO17GXVkiA" target="_blank" >
 <img src="assets/photo/Colorado.jpg" width="350"/>
 </a>
 </p>
@@ -24,7 +24,7 @@ We are going to Denver to see my nephew and his fiance.  They are going to be ma
 Went to Richmond just to get out of town for the weekend and really liked it.   Basically, spend time in the Fan neighborhood and down at the James River.  There is a lot to do, great food and a good vibe.  We did a canal and tolley tour and spent time on a few of the islands in the James River and walked the "pipe walk".  Saw the reamins of the Civil War POW camp and lots of street art. There was a bakery less than a 100 yards from our Air BnB what had gluten free treats.
 
 <p style="text-align: center;"> 
-<a href="https://photos.app.goo.gl/DDgYeNDfKmQSQZeH6" target="_blank" >
+<a href="https://www.icloud.com/sharedalbum/#B0l5M7GFPGkfDFA" target="_blank" >
 <img src="assets/photo/Richmond.jpg" width="350"/>
 </a>
 </p>
@@ -35,17 +35,17 @@ Went to Richmond just to get out of town for the weekend and really liked it.   
 Selfies with the Bearsome random pictures of our new place in New Bern, NC.  There are a lot of bears around town, so it will take a while to capture them all
 
 <p style="text-align: center;"> 
-<a href="https://photos.app.goo.gl/UvuaUrUZVGP5QrS67" target="_blank" >
+<a href="https://www.icloud.com/sharedalbum/#B0lGQOeMmLlA5M" target="_blank" >
 <img src="assets/photo/bears.png" width="350"/>
 </a>
 </p>
 
-### New House in New Bern NC
+### Shoreline Dr in New Bern NC
 
 Some random pictures of our new place in New Bern, NC.
 
 <p style="text-align: center;"> 
-<a href="https://photos.app.goo.gl/uQgejpx2wHddxjed8" target="_blank" >
+<a href="https://www.icloud.com/sharedalbum/#B0l52plgjGlWiua" target="_blank" >
 <img src="assets/photo/House.New.Bern.jpg" width="350"/>
 </a>
 </p>
