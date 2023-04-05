@@ -1,5 +1,12 @@
 ---
-layout: default
+layout: page
+title: "Gallery"
+description: "Photos"
+active: gallery
+header-img: "img/gallery-bg.jpg"
+---
+
+
 ---
 
 
