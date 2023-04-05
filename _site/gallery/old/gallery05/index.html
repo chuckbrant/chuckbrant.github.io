@@ -7,8 +7,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-   <meta property="og:url" content="http://localhost:4000/gallery/gallery01/" />
-   <link rel="canonical" href="http://localhost:4000/gallery/gallery01/" />
+   <meta property="og:url" content="http://localhost:4000/gallery/old/gallery05/" />
+   <link rel="canonical" href="http://localhost:4000/gallery/old/gallery05/" />
 
 
   <link rel="shortcut icon" href="/favicon.ico?" type="image/x-icon">
@@ -18,7 +18,7 @@
 
     <title>album - Just Me</title>
 
-    <link rel="canonical" href="http://localhost:4000/gallery/gallery01/">
+    <link rel="canonical" href="http://localhost:4000/gallery/old/gallery05/">
 
 <!-- CSS -->
 	
@@ -106,7 +106,7 @@
 	<section id="content" role="main">
 		<div class="wrapper">
 	<br><br>
-			<h2>my 1st album</h2>
+			<h2>my 5th album</h2>
 
 
 			<!-- Gallery __-->
@@ -117,12 +117,12 @@
 				<figure class="gallery-item">
 					<header class='gallery-icon'>
 
-<a href="http://localhost:4000/gallery/archive/g01/bg1.jpg" class="popup"  title="IMAGE TITLE" data-caption="© photorama">
-<img src="http://localhost:4000/gallery/archive/g01/bg1.jpg"></a>
+<a href="http://localhost:4000/gallery/archive/g05/bg1.jpg" class="popup" title="IMAGE TITLE" data-caption="© photorama">
+<img src="http://localhost:4000/gallery/archive/g05/bg1.jpg"></a>
 						
 					</header>	
 					<figcaption class='gallery-caption'>
-						<div class="entry-summary" id="IMAGE TITLE">
+						<div class="entry-summary">
 							<h3>IMAGE TITLE</h3>
 							<p>© photorama</p>
 						</div>
@@ -134,12 +134,12 @@
 				<figure class="gallery-item">
 					<header class='gallery-icon'>
 
-<a href="http://localhost:4000/gallery/archive/g01/bg2.jpg" class="popup"  title="IMAGE TITLE" data-caption="© photorama">
-<img src="http://localhost:4000/gallery/archive/g01/bg2.jpg"></a>
+<a href="http://localhost:4000/gallery/archive/g05/bg2.jpg" class="popup" title="IMAGE TITLE" data-caption="© photorama">
+<img src="http://localhost:4000/gallery/archive/g05/bg2.jpg"></a>
 						
 					</header>	
 					<figcaption class='gallery-caption'>
-						<div class="entry-summary" id="IMAGE TITLE">
+						<div class="entry-summary">
 							<h3>IMAGE TITLE</h3>
 							<p>© photorama</p>
 						</div>
@@ -151,12 +151,12 @@
 				<figure class="gallery-item">
 					<header class='gallery-icon'>
 
-<a href="http://localhost:4000/gallery/archive/g01/bg3.jpg" class="popup"  title="IMAGE TITLE" data-caption="© photorama">
-<img src="http://localhost:4000/gallery/archive/g01/bg3.jpg"></a>
+<a href="http://localhost:4000/gallery/archive/g05/bg3.jpg" class="popup" title="IMAGE TITLE" data-caption="© photorama">
+<img src="http://localhost:4000/gallery/archive/g05/bg3.jpg"></a>
 						
 					</header>	
 					<figcaption class='gallery-caption'>
-						<div class="entry-summary" id="IMAGE TITLE">
+						<div class="entry-summary">
 							<h3>IMAGE TITLE</h3>
 							<p>© photorama</p>
 						</div>
@@ -172,29 +172,9 @@
 
 <!-- jQuery -->    
 
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <!-- include image popups -->
 <script src="/js/jquery.magnific-popup.js"></script>
-
-<script type="text/javascript">
-      $(document).ready(function($) {
-        $('a.popup').magnificPopup({
-         type: 'image',
-	  gallery:{
-         enabled:true,
-         navigateByImgClick: true,
-         preload: [0,1] // Will preload 0 - before current, and 1 after the current image
-       },
-image: {
-      titleSrc: function(item) {
-              return item.el.attr('title') + '&nbsp;' + item.el.attr('data-caption');
-            }
-        }
-          // other options
-      });
-});
-    </script>
-
 <script src="/js/retina.min.js"></script>
 <!-- include Masonry -->
 <script src="/js/isotope.pkgd.min.js"></script> 
@@ -209,7 +189,25 @@ image: {
 <!-- Modernizr -->
  <script src="/js/modernizr.js"></script>
 
-    
+    <script type="text/javascript">
+      $(document).ready(function($) {
+        $('a.popup').magnificPopup({
+          type: 'image',
+	  gallery:{
+         enabled:true,
+         navigateByImgClick: true,
+         preload: [0,1] // Will preload 0 - before current, and 1 after the current image
+       },
+      image: {
+         titleSrc: function(item) {
+              return item.el.attr('title') + '&nbsp;' + item.el.attr('data-caption');
+            }
+        }
+          // other options
+      });
+});
+    </script>
+
 </body></html>
 
 	</div>
