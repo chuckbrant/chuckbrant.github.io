@@ -19,7 +19,7 @@ New Bern, North Carolina is a picturesque and historic city that offers endless 
 
 <p style="text-align: center;"> 
 <a href="https://www.icloud.com/sharedalbum/#B0lJu8EH6ARNKv" target="_blank" >
-<img src="/assets/photo/newbern1.jpg" width="350"/>
+<img src="/gallery/photo/newbern1.jpg" width="350"/>
 </a>
 </p>
 
@@ -28,7 +28,7 @@ New Bern, North Carolina is a picturesque and historic city that offers endless 
 
 <p style="text-align: center;"> 
 <a href="https://www.icloud.com/sharedalbum/#B0l5aVbMKJJdlAi" target="_blank" >
-<img src="/assets/photo/MoveSerenity.jpg" width="350"/>
+<img src="/gallery/photo/MoveSerenity.jpg" width="350"/>
 </a>
 </p>
 
@@ -38,7 +38,7 @@ We are going to Denver to see my nephew and his fiance.  They are going to be ma
 
 <p style="text-align: center;"> 
 <a href="https://www.icloud.com/sharedalbum/#B0l5ejO17GXVkiA" target="_blank" >
-<img src="/assets/photo/Colorado.jpg" width="350"/>
+<img src="/gallery/photo/Colorado.jpg" width="350"/>
 </a>
 </p>
 
@@ -49,7 +49,7 @@ Went to Richmond just to get out of town for the weekend and really liked it.   
 
 <p style="text-align: center;"> 
 <a href="https://www.icloud.com/sharedalbum/#B0l5M7GFPGkfDFA" target="_blank" >
-<img src="/assets/photo/Richmond.jpg" width="350"/>
+<img src="/gallery/photo/Richmond.jpg" width="350"/>
 </a>
 </p>
 
@@ -60,7 +60,7 @@ Selfies with the Bearsome random pictures of our new place in New Bern, NC.  The
 
 <p style="text-align: center;"> 
 <a href="https://www.icloud.com/sharedalbum/#B0lGQOeMmLlA5M" target="_blank" >
-<img src="/assets/photo/bears.png" width="350"/>
+<img src="/gallery/photo/bears.png" width="350"/>
 </a>
 </p>
 
@@ -71,7 +71,7 @@ Some random pictures of our new place in New Bern, NC.
 
 <p style="text-align: center;"> 
 <a href="https://www.icloud.com/sharedalbum/#B0l52plgjGlWiua" target="_blank" >
-<img src="/assets/photo/House.New.Bern.jpg" width="350"/>
+<img src="/gallery/photo/House.New.Bern.jpg" width="350"/>
 </a>
 </p>
 
@@ -86,7 +86,7 @@ Heading to Charleston to see if there is a potential to live and sail there.  It
 
 <p style="text-align: center;"> 
 <a href="https://www.icloud.com/sharedalbum/#B0lJRveFpGt82BK" target="_blank" >
-<img src="/assets/photo/charleston1.jpg" width="350"/>
+<img src="/gallery/photo/charleston1.jpg" width="350"/>
 </a>
 </p>
 
@@ -97,7 +97,7 @@ We are heading to the annual boat show, looking for life jackets and to look at 
 
 <p style="text-align: center;"> 
 <a href="https://www.icloud.com/sharedalbum/#B0l5aDWbrJJpQYA" target="_blank" >
-<img src="/assets/photo/Annapolis.jpg" width="350"/>
+<img src="/gallery/photo/Annapolis.jpg" width="350"/>
 </a>
 </p>
 
@@ -110,7 +110,7 @@ We had a quick overnight visit to Sasha.  We visited a couple of parks, a sunflo
 
 <p style="text-align: center;"> 
 <a href="https://www.icloud.com/sharedalbum/#B0lGJDfWGJ8IfEJ" target="_blank" >
-<img src="/assets/photo/hendersonville.jpg" width="350"/>
+<img src="/gallery/photo/hendersonville.jpg" width="350"/>
 </a>
 </p>
 
@@ -120,7 +120,7 @@ We had a quick overnight visit to Sasha.  We visited a couple of parks, a sunflo
 
 <p style="text-align: center;"> 
 <a href="https://www.icloud.com/sharedalbum/#B0lGIcgc2GbsDY" target="_blank" >
-<img src="/assets/photo/holden.jpg" width="350"/>
+<img src="/gallery/photo/holden.jpg" width="350"/>
 </a>
 </p>
 
@@ -130,7 +130,7 @@ We had a quick overnight visit to Sasha.  We visited a couple of parks, a sunflo
 
 <p style="text-align: center;"> 
 <a href="https://www.icloud.com/sharedalbum/#B0l5NI45MGoYhxG" target="_blank" >
-<img src="/assets/photo/gooseberry.jpg" width="350"/>
+<img src="/gallery/photo/gooseberry.jpg" width="350"/>
 </a>
 </p>
 
@@ -141,7 +141,7 @@ We had a quick overnight visit to Sasha.  We visited a couple of parks, a sunflo
 
 <p style="text-align: center;"> 
 <a href="https://www.icloud.com/sharedalbum/#B0l5CmvASGAcIFm" target="_blank" >
-<img src="/assets/photo/amsterdam.jpg" width="350"/>
+<img src="/gallery/photo/amsterdam.jpg" width="350"/>
 </a>
 </p>
 
