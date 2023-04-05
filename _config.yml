@@ -34,7 +34,7 @@ comments :
 # Internal nav
 nav:
   - GALLERY: "https://chuckbrant.github.io/gallery/"  
-  - JOURNAL: "https://chuckbrant.github.io/journal/"
+#  - JOURNAL: "https://chuckbrant.github.io/journal/"
   - ABOUT: "https://chuckbrant.github.io/about/"
 
 # All translation keys
