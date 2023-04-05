@@ -3,14 +3,14 @@ title: Chuck Brant
 email: "chuck.brant@gmail.com"
 description: "Photo Journal"
 url: "https://chuckbrant.github.io"
-baseurl: ""
-facebook_username: ""
-twitter_username: ""
-instagram_username: ""
-github_username:  ""
-deviantart_username: ""
-flickr_username: ""
-discus_shortname: ""
+baseurl: "https://chuckbrant.github.io/"
+#facebook_username: ""
+#twitter_username: ""
+#instagram_username: ""
+github_username:  "chuckbrant"
+#deviantart_username: ""
+#flickr_username: ""
+#discus_shortname: ""
 share: true
 
 # Owner/author information
