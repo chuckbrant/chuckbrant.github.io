@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Just Me</title>
-    <description>Chuck&apos;s Random Corner of the Internet</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 05 Apr 2023 12:36:57 -0400</pubDate>
-    <lastBuildDate>Wed, 05 Apr 2023 12:36:57 -0400</lastBuildDate>
+    <title>ChuckBrant</title>
+    <description>Photo Journal</description>
+    <link>http://localhost:4000//</link>
+    <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 07 Apr 2023 10:47:52 -0400</pubDate>
+    <lastBuildDate>Fri, 07 Apr 2023 10:47:52 -0400</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -30,8 +30,8 @@
 &lt;p&gt;Placeholder text by &lt;a href=&quot;http://www.fillerati.com/&quot;&gt;Fillerati&lt;/a&gt;. Photography by &lt;a href=&quot;https://unsplash.com&quot;&gt;UNSPLASH&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Fri, 25 Mar 2016 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/cat01/cat02/2016/03/25/Alice-in-Wonderland.html</link>
-        <guid isPermaLink="true">http://localhost:4000/cat01/cat02/2016/03/25/Alice-in-Wonderland.html</guid>
+        <link>http://localhost:4000//journal/Alice-in-Wonderland/</link>
+        <guid isPermaLink="true">http://localhost:4000//journal/Alice-in-Wonderland/</guid>
         
         <category>tag01</category>
         
@@ -69,8 +69,8 @@
 &lt;p&gt;Placeholder text by &lt;a href=&quot;http://www.fillerati.com/&quot;&gt;Fillerati&lt;/a&gt;. Photography by &lt;a href=&quot;https://unsplash.com&quot;&gt;UNSPLASH&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sun, 20 Mar 2016 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/cat03/cat04/2016/03/20/The-Scarlet-Plague.html</link>
-        <guid isPermaLink="true">http://localhost:4000/cat03/cat04/2016/03/20/The-Scarlet-Plague.html</guid>
+        <link>http://localhost:4000//journal/The-Scarlet-Plague/</link>
+        <guid isPermaLink="true">http://localhost:4000//journal/The-Scarlet-Plague/</guid>
         
         <category>tag03</category>
         
@@ -108,8 +108,8 @@
 &lt;p&gt;Placeholder text by &lt;a href=&quot;http://www.fillerati.com/&quot;&gt;Fillerati&lt;/a&gt;. Photography by &lt;a href=&quot;https://unsplash.com&quot;&gt;UNSPLASH&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Tue, 15 Mar 2016 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/cat03/cat04/2016/03/15/The-Wizard-of-Oz.html</link>
-        <guid isPermaLink="true">http://localhost:4000/cat03/cat04/2016/03/15/The-Wizard-of-Oz.html</guid>
+        <link>http://localhost:4000//journal/The-Wizard-of-Oz/</link>
+        <guid isPermaLink="true">http://localhost:4000//journal/The-Wizard-of-Oz/</guid>
         
         <category>tag03</category>
         
@@ -145,8 +145,8 @@
 &lt;p&gt;Placeholder text by &lt;a href=&quot;http://www.fillerati.com/&quot;&gt;Fillerati&lt;/a&gt;. Photography by &lt;a href=&quot;https://unsplash.com&quot;&gt;UNSPLASH&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Thu, 10 Mar 2016 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/cat02/2016/03/10/At-the-Earth's-Core.html</link>
-        <guid isPermaLink="true">http://localhost:4000/cat02/2016/03/10/At-the-Earth's-Core.html</guid>
+        <link>http://localhost:4000//journal/At-the-Earth's-Core/</link>
+        <guid isPermaLink="true">http://localhost:4000//journal/At-the-Earth's-Core/</guid>
         
         <category>tag01</category>
         
@@ -166,8 +166,8 @@
 &lt;p&gt;Placeholder text by &lt;a href=&quot;http://www.fillerati.com/&quot;&gt;Fillerati&lt;/a&gt;. Photography by &lt;a href=&quot;https://unsplash.com&quot;&gt;UNSPLASH&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sat, 05 Mar 2016 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/cat03/2016/03/05/Moby-Dick.html</link>
-        <guid isPermaLink="true">http://localhost:4000/cat03/2016/03/05/Moby-Dick.html</guid>
+        <link>http://localhost:4000//journal/Moby-Dick/</link>
+        <guid isPermaLink="true">http://localhost:4000//journal/Moby-Dick/</guid>
         
         <category>tag02</category>
         
@@ -201,8 +201,8 @@
 &lt;p&gt;Placeholder text by &lt;a href=&quot;http://www.fillerati.com/&quot;&gt;Fillerati&lt;/a&gt;. Photography by &lt;a href=&quot;https://unsplash.com&quot;&gt;UNSPLASH&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Tue, 01 Mar 2016 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/cat04/2016/03/01/Around-the-World-in-80-Days.html</link>
-        <guid isPermaLink="true">http://localhost:4000/cat04/2016/03/01/Around-the-World-in-80-Days.html</guid>
+        <link>http://localhost:4000//journal/Around-the-World-in-80-Days/</link>
+        <guid isPermaLink="true">http://localhost:4000//journal/Around-the-World-in-80-Days/</guid>
         
         <category>tag03</category>
         
@@ -265,8 +265,8 @@
 &lt;p&gt;&lt;a href=&quot;http://designyourownblog.com/wp-content/uploads/2015/10/biggest-blog-mistake-image-performance-2.jpg&quot;&gt;Featured Image Source&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 01 Feb 2016 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2016/02/01/images-size-for-better-performance.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/02/01/images-size-for-better-performance.html</guid>
+        <link>http://localhost:4000//journal/images-size-for-better-performance/</link>
+        <guid isPermaLink="true">http://localhost:4000//journal/images-size-for-better-performance/</guid>
         
         
       </item>
@@ -304,8 +304,8 @@
 
 	&lt;header class=&quot;gallery-icon&quot;&gt;
 
-&lt;a href=&quot;http://localhost:4000/img/galleries/g01/bg1.jpg&quot; class=&quot;popup&quot; title=&quot;IMAGE TITLE&quot; data-caption=&quot;© photorama&quot;&gt;
-&lt;img src=&quot;http://localhost:4000/img/galleries/g01/bg1.jpg&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;http://localhost:4000//img/galleries/g01/bg1.jpg&quot; class=&quot;popup&quot; title=&quot;IMAGE TITLE&quot; data-caption=&quot;© photorama&quot;&gt;
+&lt;img src=&quot;http://localhost:4000//img/galleries/g01/bg1.jpg&quot; /&gt;&lt;/a&gt;
 						
 	&lt;/header&gt;	
 		
@@ -323,8 +323,8 @@
 
 	&lt;header class=&quot;gallery-icon&quot;&gt;
 
-&lt;a href=&quot;http://localhost:4000/img/galleries/g01/bg2.jpg&quot; class=&quot;popup&quot; title=&quot;IMAGE TITLE&quot; data-caption=&quot;© photorama&quot;&gt;
-&lt;img src=&quot;http://localhost:4000/img/galleries/g01/bg2.jpg&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;http://localhost:4000//img/galleries/g01/bg2.jpg&quot; class=&quot;popup&quot; title=&quot;IMAGE TITLE&quot; data-caption=&quot;© photorama&quot;&gt;
+&lt;img src=&quot;http://localhost:4000//img/galleries/g01/bg2.jpg&quot; /&gt;&lt;/a&gt;
 						
 	&lt;/header&gt;	
 		
@@ -342,8 +342,8 @@
 
 	&lt;header class=&quot;gallery-icon&quot;&gt;
 
-&lt;a href=&quot;http://localhost:4000/img/galleries/g01/bg3.jpg&quot; class=&quot;popup&quot; title=&quot;IMAGE TITLE&quot; data-caption=&quot;© photorama&quot;&gt;
-&lt;img src=&quot;http://localhost:4000/img/galleries/g01/bg3.jpg&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;http://localhost:4000//img/galleries/g01/bg3.jpg&quot; class=&quot;popup&quot; title=&quot;IMAGE TITLE&quot; data-caption=&quot;© photorama&quot;&gt;
+&lt;img src=&quot;http://localhost:4000//img/galleries/g01/bg3.jpg&quot; /&gt;&lt;/a&gt;
 						
 	&lt;/header&gt;	
 		
@@ -374,8 +374,8 @@
 
 	&lt;header class=&quot;gallery-icon&quot;&gt;
 
-&lt;a href=&quot;http://localhost:4000/img/galleries/g02/bg1.jpg&quot; class=&quot;popup&quot; title=&quot;IMAGE TITLE&quot; data-caption=&quot;© photorama&quot;&gt;
-&lt;img src=&quot;http://localhost:4000/img/galleries/g02/bg1.jpg&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;http://localhost:4000//img/galleries/g02/bg1.jpg&quot; class=&quot;popup&quot; title=&quot;IMAGE TITLE&quot; data-caption=&quot;© photorama&quot;&gt;
+&lt;img src=&quot;http://localhost:4000//img/galleries/g02/bg1.jpg&quot; /&gt;&lt;/a&gt;
 						
 	&lt;/header&gt;	
 		
@@ -393,8 +393,8 @@
 
 	&lt;header class=&quot;gallery-icon&quot;&gt;
 
-&lt;a href=&quot;http://localhost:4000/img/galleries/g02/bg2.jpg&quot; class=&quot;popup&quot; title=&quot;IMAGE TITLE&quot; data-caption=&quot;© photorama&quot;&gt;
-&lt;img src=&quot;http://localhost:4000/img/galleries/g02/bg2.jpg&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;http://localhost:4000//img/galleries/g02/bg2.jpg&quot; class=&quot;popup&quot; title=&quot;IMAGE TITLE&quot; data-caption=&quot;© photorama&quot;&gt;
+&lt;img src=&quot;http://localhost:4000//img/galleries/g02/bg2.jpg&quot; /&gt;&lt;/a&gt;
 						
 	&lt;/header&gt;	
 		
@@ -412,8 +412,8 @@
 
 	&lt;header class=&quot;gallery-icon&quot;&gt;
 
-&lt;a href=&quot;http://localhost:4000/img/galleries/g02/bg3.jpg&quot; class=&quot;popup&quot; title=&quot;IMAGE TITLE&quot; data-caption=&quot;© photorama&quot;&gt;
-&lt;img src=&quot;http://localhost:4000/img/galleries/g02/bg3.jpg&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;http://localhost:4000//img/galleries/g02/bg3.jpg&quot; class=&quot;popup&quot; title=&quot;IMAGE TITLE&quot; data-caption=&quot;© photorama&quot;&gt;
+&lt;img src=&quot;http://localhost:4000//img/galleries/g02/bg3.jpg&quot; /&gt;&lt;/a&gt;
 						
 	&lt;/header&gt;	
 		
@@ -439,8 +439,8 @@ Photography by: &lt;a href=&quot;https://unsplash.com/photos/j0g8taxHZa0&quot;&g
 &lt;/body&gt;&lt;/html&gt;
 </description>
         <pubDate>Mon, 01 Feb 2016 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2016/02/01/multiple-galleries.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/02/01/multiple-galleries.html</guid>
+        <link>http://localhost:4000//journal/multiple-galleries/</link>
+        <guid isPermaLink="true">http://localhost:4000//journal/multiple-galleries/</guid>
         
         
       </item>
