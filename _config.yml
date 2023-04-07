@@ -36,6 +36,7 @@ nav:
   - GALLERY: "https://chuckbrant.github.io/gallery/"  
 #  - JOURNAL: "https://chuckbrant.github.io/journal/"
   - ABOUT: "https://chuckbrant.github.io/about/"
+  - HOME: "https://chuckbrant.github.io/"
 
 # All translation keys
 translations:
