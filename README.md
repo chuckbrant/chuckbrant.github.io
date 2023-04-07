@@ -1,6 +1,11 @@
 p h o t o r a m a 
 ====================
-This is a Hack of Photorama to remove the journel and use Icloud as the back-end
+
+![photorama](https://raw.githubusercontent.com/sunbliss/photorama/gh-pages/photorama_thumb.gif)
+
+----------
+
+---> [DEMO](https://sunbliss.github.io/photorama/ "DEMO")  <---
 
 ----------
 
@@ -12,6 +17,77 @@ This template was crafted having in mind the photobloggers and the artists.
 
 It uses [Clean Blog](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll "Clean Blog") as its basis.
 
+----------
+## Change Log
+
+### Version 2.2 (4/23/2018)
+
+<a href="https://github.com/sunbliss/photorama/wiki/How-to-get-SSL-on-Jekyll%3F"> How to get SSL Certificate (Https) For Jekyll</a>
+
+### Version 2.1 (3/22/2017)
+
+* Fixed script loading. 
+* Fixed padding bottom for the navbar toggle menu.
+
+
+### Version 2.0 (2/4/2017)
+
+* HTTPS is now enforced. 
+
+~~**Custom Domains are not supported.**~~
+
+~~For the time being, the only way to apply a custom domain name is by removing HTTPS as of the previous version. 
+Hoping Github developers will give its users the ability to add a custom domain served under security.~~
+
+### Version 1.2 (1/31/2017)
+
+* Fixed footer code so that the twitter icon links to the twitter_username instead of instagram_username.
+
+### Version 1.1 (7/15/2016)
+
+* Improved galleries and search section.
+* Better rendering of the header text.
+
+### Version 1.0 (6/19/2016)
+* Initial Template
+
+----------
+
+ **IMPORTANT!!!**
+================
+
+### Before you begin: Change the URL and the BASEURL as well as the internal nav links in the _config.yml
+
+The **URL** should say `https://yourusername.github.io`
+
+The **BASEURL** should say `/repositoryname`
+
+**Internal nav** should say
+
+  nav:
+
+  - GALLERY: `"https://yourusername.github.io/repositoryname/gallery/"`
+  - JOURNAL: `"https://yourusername.github.io/repositoryname/journal/"`
+  - ABOUT: `"https://yourusername.github.io/repositoryname/about/`"
+
+If there are problems with loading assets like CSS files and images, make sure that both **URL** and **BASEURL** are set correctly!!! 
+
+----------
+
+~~**NOT FOR HTTPS served repos!!!**~~
+==================================
+
+~~* Applies for v1.2!~~
+
+If you want to use your **own domain** go to the root of your project's repository, create a CNAME file and add a line with your domain name, e.g. `www.yourdomain.com`.
+
+Go to your domain name registrar and add a CNAME record pointing your domain to GitHub Pages:
+- type: CNAME
+- host: www.yourdomainname.com
+- answer: yourusername.github.io/repositoryname
+- TTL: 300
+
+----------
 
 Usage
 ============ 

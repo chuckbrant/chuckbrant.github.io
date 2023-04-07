@@ -1,24 +1,24 @@
 # Site settings
-title: Chuck Brant
-email: "chuck.brant@gmail.com"
+title: PHOTORAMA
+email: ""
 description: "Photo Journal"
 url: "https://chuckbrant.github.io"
 baseurl: "/"
-#facebook_username: ""
-#twitter_username: ""
-#instagram_username: ""
-github_username:  "chuckbrant"
-#deviantart_username: ""
-#flickr_username: ""
-#discus_shortname: ""
-share: false
+facebook_username: ""
+twitter_username: ""
+instagram_username: ""
+github_username:  ""
+deviantart_username: ""
+flickr_username: ""
+discus_shortname: ""
+share: true
 
 # Owner/author information
 owner:
-  name:   Chuck Brant
+  name:   photorama
   avatar: avatar.png
   favicon: favicon.ico
-  info: photography personal 
+  info: photography website template
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
@@ -27,16 +27,15 @@ owner:
 # Disable comments for individual pages/posts by specifying 'comments: false' in the page/post YAML Front Matter.
 #
 comments :
-  provider : disque
+  provider : disqus
   disqus :
     short_name : ""
 
 # Internal nav
 nav:
   - GALLERY: "https://chuckbrant.github.io/gallery/"  
-#  - JOURNAL: "https://chuckbrant.github.io/journal/"
+  - JOURNAL: "https://chuckbrant.github.io/journal/"
   - ABOUT: "https://chuckbrant.github.io/about/"
-  - HOME: "https://chuckbrant.github.io/"
 
 # All translation keys
 translations:
