@@ -6,7 +6,7 @@ active: journal
 image:
   feature: "glenburniepark.jpg"
 date:       2024-01-04
-header-img: "/gallery/photo/glenburniepark.jpg"
+header-img: "gallery/photo/glenburniepark.jpg"
 comments: false
 ---
 
