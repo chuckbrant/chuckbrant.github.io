@@ -1,7 +1,5 @@
 ---
 layout:     post
-title:      "Title"
-subtitle:   "Sub Title"
 active: journal
 image:
   feature: "glenburniepark.jpg"
