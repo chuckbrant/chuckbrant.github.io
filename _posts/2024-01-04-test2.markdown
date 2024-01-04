@@ -1,6 +1,8 @@
 ---
 layout:     post
 active: journal
+title:      "Glen Burnie Park"
+subtitle:   "A Walk on the Disc Golf Field"
 image:
   feature: "glenburniepark.jpg"
 date:       2024-01-04
