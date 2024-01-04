@@ -16,9 +16,9 @@ share: true
 # Owner/author information
 owner:
   name:   Chuck Brant
-  avatar: avatar.png
+#  avatar: avatar.png
   favicon: favicon.ico
-  info: photography photos travel
+  info: photography & travel
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
