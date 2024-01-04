@@ -4,7 +4,7 @@ title:      "Title"
 subtitle:   "Sub Title"
 active: journal
 image:
-  feature: "gallery/photo/glenburniepark.jpg"
+  feature: "glenburniepark.jpg"
 date:       2024-01-04
 header-img: "gallery/photo/glenburniepark.jpg"
 tags: [tag01, tag02]
