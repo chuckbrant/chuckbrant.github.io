@@ -34,7 +34,7 @@ comments :
 # Internal nav
 nav:
   - GALLERY: "https://www.chuckbrant.com/gallery/"  
-  - Travel: "https://www.chuckbrant.com/journal/"
+  - Travel: "https://www.chuckbrant.com/travel/"
   - ABOUT: "https://www.chuckbrant.com/about/"
   - HOME: "https://www.chuckbrant.com/"
 
@@ -53,10 +53,10 @@ markdown: kramdown
 highlighter: rouge
 permalink: pretty
 paginate: 5
-paginate_path: "/journal/page:num/"
-permalink: "/journal/:title/"
-#categories_path: "/journal/category/"
-#tags_path: "/journal/tag/"
+paginate_path: "/travel/page:num/"
+permalink: "/travel/:title/"
+#categories_path: "/travel/category/"
+#tags_path: "/travel/tag/"
 gems: 
  - jekyll-paginate
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
@@ -69,6 +69,6 @@ sitemap:
         - "/feed.xml"
         - "/feed/index.xml"
     include_posts:
-        - "/writing/"
+        - "/travel/"
     change_frequency_name: "change_frequency"
     priority_name: "priority"
