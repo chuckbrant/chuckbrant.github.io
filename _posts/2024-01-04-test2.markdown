@@ -6,7 +6,7 @@ subtitle:   "A Walk on the Disc Golf Field"
 image:
   feature: "glenburniepark.jpg"
 date:       2024-01-04
-header-img: "img/postcover/blog.jpg"
+header-img: "img/postcover/map.jpg"
 comments: false
 ---
 
