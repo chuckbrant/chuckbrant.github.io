@@ -2,24 +2,19 @@ p h o t o r a m a
 ====================
 
 ----------
-This is just a hack up of photograma, to support Icloud as the backend, and remove journals.
+This is just a hack up of photograma, to support Icloud as the backend.
 
-Usage
+Workflow
 ============ 
 
-###Quick Start
+###How to Publish a new Travel Entry and/or Photo Album
 
-1. [Fork this repository](https://github.com/sunbliss/photorama/fork) to get started. 
-2. Go to `https://github.com/yourusername/photorama/settings`
-3. Rename the repository to your new project, e.g. *myphotoblog*
-2. Create a new branch called `gh-pages` in your repository. 
-3. Go to the branches directory at `https://github.com/yourusername/repositoryname/branches` and *change* **default branch** to **gh-pages**.
-4. Delete **master** branch. 
-3. GitHub will build your site automatically and publish it at `https://yourusername.github.io/repositoryname/`.  
-
-----------
-
-- The homepage welcomes the visitors with 3 animated photos of your choice. It is recommended that all three are landscape orientated for best view.
-
-To change the welcome content at the far left of the Home page go here: `/index.html` and fill the responding lines of the YAML with your desired text.
-
+1. Create an Apple Cloud Shared Library with a public URL (you will use this in both the gallery and journal
+2. Add the photo for the Photo Ablum Cover and the Post into gallery/photo
+3. Copy a post template from /template to _posts
+4. Edit the post with the correct date, and add the Album Cover Photo and the text about the location
+5. Edit gallery/index with the new album information
+6. Post it to Github
+   git add . --all
+   git commit -a -m "commit comment"
+   git push
