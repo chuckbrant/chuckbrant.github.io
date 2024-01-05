@@ -1,4 +1,4 @@
-p h o t o r a m a 
+Chuck's little Photo Journal and Pictures (aka Blog)
 ====================
 
 ----------
