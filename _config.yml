@@ -2,7 +2,7 @@
 title: Chuck Brant
 email: "chuck.brant@gmail.com"
 description: "Photo Journal"
-url: "https://chuckbrant.com"
+url: "https://www.chuckbrant.com"
 baseurl: "/"
 #facebook_username: ""
 #twitter_username: ""
@@ -33,10 +33,10 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://chuckbrant.com/gallery/"  
-  - JOURNAL: "https://chuckbrant.com/journal/"
-  - ABOUT: "https://chuckbrant.com/about/"
-  - HOME: "https://chuckbrant.com/"
+  - GALLERY: "https://www.chuckbrant.com/gallery/"  
+  - JOURNAL: "https://www.chuckbrant.com/journal/"
+  - ABOUT: "https://www.chuckbrant.com/about/"
+  - HOME: "https://www.chuckbrant.com/"
 
 # All translation keys
 translations:
