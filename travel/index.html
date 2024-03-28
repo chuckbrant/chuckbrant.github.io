@@ -34,7 +34,8 @@ header-img: "img/journal-bg.png"
 <a href="{{ post.url | prepend: site.baseurl }}">
         {% if post.image.feature %}
         <h1 style="color: #acd578;">{{ page.title }}</h1>
-	<img src="{{ site.baseurl }}/gallery/photo/{{ post.image.feature }}">
+        <h2 class="subheading">{{ page.subtitle }}</h2>
+	<img src="{{ site.baseurl }}/gallery/photo/{{ post.image.feature }} width="500" ">
 	{% endif %}
 </a>
 
