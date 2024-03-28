@@ -54,7 +54,7 @@ port:             	 4000
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
-paginate: 5
+paginate: 10
 paginate_path: "/travel/page:num/"
 permalink: "/travel/:title/"
 #categories_path: "/travel/category/"
