@@ -12,6 +12,7 @@ github_username:  "chuckbrant"
 #flickr_username: ""
 #discus_shortname: ""
 share: true
+unpublished: true
 
 # Owner/author information
 owner:
