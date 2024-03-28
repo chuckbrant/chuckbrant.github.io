@@ -4,7 +4,7 @@ active: journal
 title:      "Athens, Greece"
 subtitle:   "Something Something Something"
 image:
-  feature: "Athens.jpg"
+  feature: "Athens2.jpg"
 date:       2024-05-05
 header-img: "img/postcover/map.png"
 comments: false
@@ -14,5 +14,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <br>
 <br>
-### [iCloud Photo Album](https://www.icloud.com/sharedalbum/#B0lJ5HumnZosGo) 
+### [iCloud Photo Album](https://www.icloud.com/sharedalbum/#B0lG60dj6JOjHAv)
 **The albums are loaded from iCloud, so please be patient there is a little delay while they load up.*
