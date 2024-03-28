@@ -33,8 +33,7 @@ header-img: "img/journal-bg.png"
     
 <a href="{{ post.url | prepend: site.baseurl }}">
         {% if post.image.feature %}
-        <h1 style="color: #acd578;">{{ post.title }}</h1>
-<!--        <h2 style="color: #acd578;">{{ post.subtitle }}</h2>  -->
+        <h1 style="color: #ffffff;">{{ post.title }}</h1>
         Posted on {{ post.date | date: "%B %-d, %Y" }}
 	<img src="{{ site.baseurl }}/gallery/photo/{{ post.image.feature }}" width="500">
 	{% endif %}
