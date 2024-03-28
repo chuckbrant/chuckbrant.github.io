@@ -2,7 +2,7 @@
 layout:     post
 active: journal
 title:      "test 3"
-subtitle:   "test three"sa
+subtitle:   "test three"
 image:
   feature: "glenburniepark.jpg"
 date:       2024-01-05
