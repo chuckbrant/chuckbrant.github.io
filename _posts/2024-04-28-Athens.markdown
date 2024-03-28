@@ -4,7 +4,7 @@ active: journal
 title:      "Athens, Greece"
 subtitle:   "Something Something Something"
 image:
-  feature: "glenburniepark.jpg"
+  feature: "coming_soon.jpg"
 date:       2024-04-28
 header-img: "img/postcover/map.png"
 comments: false
