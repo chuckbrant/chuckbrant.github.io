@@ -4,7 +4,7 @@ active: journal
 title:      "Nafpaktos, Greece"
 subtitle:   "Something Something Something"
 image:
-  feature: "coming_soon.jpg"
+  feature: "Nafpaktos.jpg"
 date:       2024-04-26
 header-img: "img/postcover/map.png"
 comments: false

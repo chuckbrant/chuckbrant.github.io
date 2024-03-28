@@ -4,7 +4,7 @@ active: journal
 title:      "Kalambaka, Greece"
 subtitle:   "Something Something Something"
 image:
-  feature: "coming_soon.jpg"
+  feature: "Kalambaka.jpg"
 date:       2024-04-24
 header-img: "img/postcover/map.png"
 comments: false

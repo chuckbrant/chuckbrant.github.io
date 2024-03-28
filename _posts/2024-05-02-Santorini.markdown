@@ -4,7 +4,7 @@ active: journal
 title:      "Santorini, Greece"
 subtitle:   "Something Something Something"
 image:
-  feature: "coming_soon.jpg"
+  feature: "Santorini.jpg"
 date:       2024-05-02
 header-img: "img/postcover/map.png"
 comments: false

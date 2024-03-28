@@ -4,7 +4,7 @@ active: journal
 title:      "Mykonos, Greece"
 subtitle:   "Something something something"
 image:
-  feature: "coming_soon.jpg"
+  feature: "Mykonos.jpg"
 date:       2024-04-30
 header-img: "img/postcover/map.png"
 comments: false

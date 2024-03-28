@@ -4,7 +4,7 @@ active: journal
 title:      "Athens, Greece"
 subtitle:   "Something Something Something"
 image:
-  feature: "coming_soon.jpg"
+  feature: "Athens.jpg"
 date:       2024-05-05
 header-img: "img/postcover/map.png"
 comments: false

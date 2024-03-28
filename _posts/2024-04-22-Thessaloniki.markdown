@@ -4,7 +4,7 @@ active: journal
 title:      "Thessaloniki, Greece"
 subtitle:   "Something Something Something"
 image:
-  feature: "coming_soon.jpg"
+  feature: "Thessaloniki.jpg"
 date:       2024-04-22
 header-img: "img/postcover/map.png"
 comments: false
