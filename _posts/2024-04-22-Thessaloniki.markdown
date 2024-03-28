@@ -2,7 +2,7 @@
 layout:     post
 active: journal
 title:      "Thessaloniki, Greece"
-subtitle:   "Something Something  Something"
+subtitle:   "Something Something Something"
 image:
   feature: "coming_soon.jpg"
 date:       2024-04-22
