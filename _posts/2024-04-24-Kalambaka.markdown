@@ -1,11 +1,11 @@
 ---
 layout:     post
 active: journal
-title:      "Glen Burnie Park"
-subtitle:   "A Walk on the Disc Golf Field"
+title:      "Kalambaka, Greece"
+subtitle:   "Something Something Something"
 image:
-  feature: "glenburniepark.jpg"
-date:       2024-01-04
+  feature: "coming_soon.jpg"
+date:       2024-04-24
 header-img: "img/postcover/map.png"
 comments: false
 ---

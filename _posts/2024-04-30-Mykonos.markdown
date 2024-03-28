@@ -1,11 +1,11 @@
 ---
 layout:     post
 active: journal
-title:      "Glen Burnie Park"
-subtitle:   "A Walk on the Disc Golf Field"
+title:      "Mykonos, Greece"
+subtitle:   "Something something something"
 image:
-  feature: "glenburniepark.jpg"
-date:       2024-01-04
+  feature: "coming_soon.jpg"
+date:       2024-04-30
 header-img: "img/postcover/map.png"
 comments: false
 ---
