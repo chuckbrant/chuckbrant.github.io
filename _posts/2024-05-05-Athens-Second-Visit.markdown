@@ -14,5 +14,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <br>
 <br>
-### [iCloud Photo Album](https://www.icloud.com/sharedalbum/#B0lG60dj6JOjHAv)
+### [Photo Album](https://www.icloud.com/sharedalbum/#B0lG60dj6JOjHAv)
 **The albums are loaded from iCloud, so please be patient there is a little delay while they load up.*
