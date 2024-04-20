@@ -1,7 +1,7 @@
 ---
 layout:     post
 active: journal
-title:      "New Bern, NC"
+title:      "Big Red Suitcases in New Bern, NC"
 subtitle:   "All Packup and Ready to go"
 image:
   feature: "packedup.jpg"
