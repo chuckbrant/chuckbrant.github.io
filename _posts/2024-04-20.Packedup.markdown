@@ -5,7 +5,7 @@ title:      "New Bern, NC"
 subtitle:   "All Packup and Ready to go"
 image:
   feature: "packedup.jpg"
-date:       2024-04-22
+date:       2024-04-20
 header-img: "img/postcover/map.png"
 comments: false
 published: true
