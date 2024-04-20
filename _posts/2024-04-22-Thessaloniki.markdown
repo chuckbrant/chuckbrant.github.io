@@ -1,20 +1,19 @@
 ---
 layout:     post
 active: journal
-title:      "Glen Burnie Park"
-subtitle:   "A Walk on the Disc Golf Field"
+title:      "Thessaloniki, Greece"
+subtitle:   "Something Something Something"
 image:
-  feature: "glenburniepark.jpg"
-date:       2024-04-19
+  feature: "Thessaloniki.jpg"
+date:       2024-04-22
 header-img: "img/postcover/map.png"
 comments: false
 published: true
-hidden: false
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 <br>
 <br>
-### [iCloud Photo Album](https://www.icloud.com/sharedalbum/#B0lJ5HumnZosGo) 
+### [Photo Album](https://www.icloud.com/sharedalbum/#B0l5KMDhOGTXfnl)
 **The albums are loaded from iCloud, so please be patient there is a little delay while they load up.*
