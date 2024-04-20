@@ -16,3 +16,4 @@ The Big Red Suitcases are all packed and ready to go.  Wendi and I are looking f
 <br>
 <br>
 <img src="gallery/photo/packedup.jpg  width="500">
+![image tooltip here](/gallery/photo/packedup.jpg)
