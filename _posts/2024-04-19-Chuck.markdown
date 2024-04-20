@@ -1,11 +1,11 @@
 ---
 layout:     post
 active: journal
-title:      "Glen Burnie Park"
-subtitle:   "A Walk on the Disc Golf Field"
+title:      "New Bern, NC"
+subtitle:   "All Packup and Ready to go"
 image:
-  feature: "glenburniepark.jpg"
-date:       2024-04-19
+  feature: "packedup.jpg"
+date:       2024-04-20
 header-img: "img/postcover/map.png"
 comments: false
 published: true
