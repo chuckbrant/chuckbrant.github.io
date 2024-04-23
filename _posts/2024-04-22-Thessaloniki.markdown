@@ -2,9 +2,9 @@
 layout:     post
 active: journal
 title:      "Thessaloniki, Greece"
-subtitle:   "Something Something Something"
+subtitle:   "A Rainy Day for our 1st City in Greece"
 image:
-  feature: "Thessaloniki.jpg"
+  feature: "Thessaloniki1.jpg"
 date:       2024-04-22
 header-img: "img/postcover/map.png"
 comments: false
