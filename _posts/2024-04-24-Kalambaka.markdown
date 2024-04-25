@@ -2,7 +2,7 @@
 layout:     post
 active: journal
 title:      "Kalambaka, Greece"
-subtitle:   "Something Something Something"
+subtitle:   "The mountains are gorgeous"
 image:
   feature: "Kalambaka.jpg"
 date:       2024-04-24
