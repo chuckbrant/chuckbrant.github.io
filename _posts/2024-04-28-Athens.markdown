@@ -2,7 +2,7 @@
 layout:     post
 active: journal
 title:      "Athens, Greece"
-subtitle:   "Something Something Something"
+subtitle:   "The Captial of Greece and the home of the Acropolis"
 image:
   feature: "Athens.jpg"
 date:       2024-04-28
