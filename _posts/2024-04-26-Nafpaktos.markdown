@@ -2,7 +2,7 @@
 layout:     post
 active: journal
 title:      "Nafpaktos, Greece"
-subtitle:   "Something Something Something"
+subtitle:   "A beautiful town on the Gulf of Corinth"
 image:
   feature: "Nafpaktos.jpg"
 date:       2024-04-26
