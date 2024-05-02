@@ -2,18 +2,23 @@
 layout:     post
 active: journal
 title:      "Mykonos, Greece"
-subtitle:   "Something something something"
+subtitle:   "An Ancient, Tax Free Island, and Open to All, Governed by Priests"
 image:
   feature: "Mykonos.jpg"
 date:       2024-04-30
 header-img: "img/postcover/map.png"
 comments: false
-published: false
-hidden: true
+published: true
+hidden: false
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+ Okay, that ferry ride to Mykonos was sweet. It was the largest ship we’ve ever been on. Sitting in seats that rivaled Delta’s first class, we motored three hours to the Island of the Winds, Mykonos. I knew the water was blue from all the photos online, but OMG was it blue. And different shades of blue. It was super pretty when the ferry engines churned the water and turned turquoise. The white buildings dotting the sides of the mountains and lining the ports were spectacular but our hotel took my breath away. Literally and figuratively. It was not one building but a series of separate ones up the side of a steep hill. Our room was on the forth “level” but once we got there the view was worth it.
 
+Mykonos is known for its nightlife and luxury accommodations. We strolled around the quaint narrow streets with all the high end shops and unique restaurants. Our tour ended with a drink at a popular club with a DJ. I have videos of all of us dancing but it would only make you jealous. :-) 
+
+The next morning was an extra excursion day. Some people opted to stay back and do their own thing while the rest of us hopped on a ferry (a much smaller and more basic one than yesterday) and went to the small island of Delos. It used to be a holy sanctuary before the Greek mythology made it the birthplace of Apollo. The island is called ‘no man’s land’ because many different cultures have used the island as a place of trade and markets. No one country owned it and there are temples and statues from Egypt, India, Greece and Italy. The only people who live on the 33 square mile island are the guards and the archeologists. And cats. I thought New Bern had a stray cat population problem but Greece is the winner now. They all look well fed however. 
+
+We enjoyed our last dinner in Mykonos and tomorrow we head for that jewel, Santorini.
 <br>
 <br>
 ### [Photo Album](https://www.icloud.com/sharedalbum/#B0lJOFSVFGETMWy) 
