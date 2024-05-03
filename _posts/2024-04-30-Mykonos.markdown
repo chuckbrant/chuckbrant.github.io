@@ -2,7 +2,7 @@
 layout:     post
 active: journal
 title:      "Mykonos, Greece"
-subtitle:   "An Ancient, Tax Free Island, and Open to All, Governed by Priests"
+subtitle:   "A lovely island in the Aegen Sea, know for partying"
 image:
   feature: "Mykonos.jpg"
 date:       2024-04-30
