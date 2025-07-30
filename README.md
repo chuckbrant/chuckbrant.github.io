@@ -18,3 +18,4 @@ Workflow
    git add . --all
    git commit -a -m "commit comment"
    git push
+test this
