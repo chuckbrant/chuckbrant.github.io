@@ -3,4 +3,20 @@ logo: /assets/img/logo.png
 description: Minimal is a theme for GitHub Pages.
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-minimal
+
+# Site settings
+title: Chuck Brant
+email: "chuck.brant@gmail.com"
+description: "Travel Photo Journal"
+url: "https://www.chuckbrant.com"
+baseurl: "/"
+
+# Owner/author information
+owner:
+  name:   Wendi & Chuck Brant
+  avatar: avatar2.png
+  favicon: favicon.ico
+  info: photography & traveltheme: jekyll-theme-minimal
+
+exclude:
+- junk/
