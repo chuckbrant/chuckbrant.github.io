@@ -1,20 +1,26 @@
 # Site settings
 title: Chuck Brant
 email: "chuck.brant@gmail.com"
-description: "Photo Journal"
-url: "https://cbrant.github.io"
+description: "Travel Photo Journal"
+url: "https://www.chuckbrant.com"
 baseurl: "/"
-twitter_username: ""
+#facebook_username: "cbrant.200"
+#twitter_username: ""
 instagram_username: "photos4chuck"
 github_username:  "chuckbrant"
+#deviantart_username: ""
+#flickr_username: ""
+#discus_shortname: ""
 share: true
+unpublished: true
+future: true
 
 # Owner/author information
 owner:
-  name:   Chuck Brant
-  avatar: avatar.png
+  name:   Wendi & Chuck Brant
+  avatar: avatar2.png
   favicon: favicon.ico
-  info: photography website 
+  info: photography & travel
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
@@ -22,16 +28,17 @@ owner:
 #Set 'provider: false' to disable comments globally.
 # Disable comments for individual pages/posts by specifying 'comments: false' in the page/post YAML Front Matter.
 #
-#comments :
-#  provider : disqus
-#  disqus :
-#    short_name : ""
+comments :
+  provider : disqus
+  disqus :
+    short_name : ""
 
 # Internal nav
 nav:
-  - GALLERY: "https://chuckbrant.github.io/photorama/gallery/"  
-  - JOURNAL: "https://chuckbrant.github.io/photorama/journal/"
-  - ABOUT: "https://chuckbrant.github.io/photorama/about/"
+  - GALLERY: "https://www.chuckbrant.com/gallery/"  
+  - Travel: "https://www.chuckbrant.com/travel/"
+  - ABOUT: "https://www.chuckbrant.com/about/"
+  - HOME: "https://www.chuckbrant.com/"
 
 # All translation keys
 translations:
@@ -47,11 +54,11 @@ port:             	 4000
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
-paginate: 5
-paginate_path: "/journal/page:num/"
-permalink: "/journal/:title/"
-categories_path: "/journal/category/"
-tags_path: "/journal/tag/"
+paginate: 10
+paginate_path: "/travel/page:num/"
+permalink: "/travel/:title/"
+#categories_path: "/travel/category/"
+#tags_path: "/travel/tag/"
 gems: 
  - jekyll-paginate
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
@@ -64,6 +71,6 @@ sitemap:
         - "/feed.xml"
         - "/feed/index.xml"
     include_posts:
-        - "/writing/"
+        - "/travel/"
     change_frequency_name: "change_frequency"
     priority_name: "priority"

@@ -64,7 +64,7 @@
 
 .blockGroup-list li:nth-child(1).block .postArticle-image
 {
-    padding-top: 30%;
+    padding-top: 10%;
     position: center;
 }
 
@@ -72,7 +72,7 @@
 {
     .blockGroup-list li:nth-child(1).block .postArticle-image
     {
-        padding-top: 50%;
+        padding-top: 10%;
     }
 }
 
@@ -90,15 +90,15 @@
 
 .blockGroup-list li:nth-child(2).block .postArticle-image
 {
-    padding-top: 25%;
-    background-size: 50%;
+    padding-top: 15%;
+    background-size: 10%;
     background-position: left;
 }
 
 .blockGroup-list li:nth-child(3).block .postArticle-image
 {
-    padding-top: 25%;
-    background-size: 50%;
+    padding-top: 15%;
+    background-size: 10%;
     background-position: right;
 }
 
