@@ -35,10 +35,10 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://www.chuckbrant.com/gallery/"  
-  - Travel: "https://www.chuckbrant.com/travel/"
-  - ABOUT: "https://www.chuckbrant.com/about/"
-  - HOME: "https://www.chuckbrant.com/"
+  - GALLERY: "https://chuckbrant.github.io/gallery/"  
+  - Travel: "https://chuckbrant.github.io/travel/"
+  - ABOUT: "https://chuckbrant.github.io/about/"
+  - HOME: "https://chuckbrant.github.io/"
 
 # All translation keys
 translations:
