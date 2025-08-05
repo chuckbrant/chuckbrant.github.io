@@ -6,8 +6,8 @@ url: "https://cbrant.github.io"
 baseurl: "/"
 facebook_username: ""
 twitter_username: ""
-instagram_username: ""
-github_username:  ""
+instagram_username: "photos4chuck"
+github_username:  "chuckbrant"
 deviantart_username: ""
 flickr_username: ""
 discus_shortname: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "https://chuckbrant.github.io/photorama/gallery/"  
+  - JOURNAL: "https://chuckbrant.github.io/photorama/journal/"
+  - ABOUT: "https://chuckbrant.github.io/photorama/about/"
 
 # All translation keys
 translations:
