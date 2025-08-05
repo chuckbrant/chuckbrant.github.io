@@ -7,7 +7,7 @@ This is just a hack up of photograma, to support Icloud as the backend.
 Workflow
 ============ 
 
-###How to Publish a new Travel Entry and/or Photo Album
+###How to Publish a new Travel Entry and/or Photo Album was here
 
 1. Create an Apple Cloud Shared Library with a public URL (you will use this in both the gallery and journal
 2. Add the photo for the Photo Ablum Cover and the Post into gallery/photo
