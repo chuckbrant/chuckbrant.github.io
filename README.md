@@ -1,116 +1,167 @@
-# The Dinky theme
+p h o t o r a m a 
+====================
 
-[![.github/workflows/ci.yaml](https://github.com/pages-themes/dinky/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/dinky/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-dinky.svg)](https://badge.fury.io/rb/jekyll-theme-dinky)
+![photorama](https://raw.githubusercontent.com/sunbliss/photorama/gh-pages/photorama_thumb.gif)
 
-*Dinky is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/dinky), or even [use it today](#usage).*
+----------
 
-![Thumbnail of Dinky](thumbnail.png)
+---> [DEMO](https://sunbliss.github.io/photorama/ "DEMO")  <---
 
-## Usage
+----------
 
-To use the Dinky theme:
+A theme for **jekyll**. 
 
-1. Add the following to your site's `_config.yml`:
+Created for gh-pages (project page).
 
-    ```yml
-    remote_theme: pages-themes/dinky@v0.2.0
-    plugins:
-    - jekyll-remote-theme # add this line to the plugins list if you already have one
-    ```
+This template was crafted having in mind the photobloggers and the artists.
 
-2. Optionally, if you'd like to preview your site on your computer, add the following to your site's `Gemfile`:
+It uses [Clean Blog](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll "Clean Blog") as its basis.
 
-    ```ruby
-    gem "github-pages", group: :jekyll_plugins
-    ```
+----------
+## Change Log
 
-## Customizing
+### Version 2.2 (4/23/2018)
 
-### Configuration variables
+<a href="https://github.com/sunbliss/photorama/wiki/How-to-get-SSL-on-Jekyll%3F"> How to get SSL Certificate (Https) For Jekyll</a>
 
-Dinky will respect the following variables, if set in your site's `_config.yml`:
+### Version 2.1 (3/22/2017)
 
-```yml
-title: [The title of your site]
-description: [A short description of your site's purpose]
-```
+* Fixed script loading. 
+* Fixed padding bottom for the navbar toggle menu.
 
-Additionally, you may choose to set the following optional variables:
 
-```yml
-show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
-google_analytics: [Your Google Analytics tracking ID]
-```
+### Version 2.0 (2/4/2017)
 
-### Stylesheet
+* HTTPS is now enforced. 
 
-If you'd like to add your own custom styles:
+~~**Custom Domains are not supported.**~~
 
-1. Create a file called `/assets/css/style.scss` in your site
-2. Add the following content to the top of the file, exactly as shown:
-    ```scss
-    ---
-    ---
+~~For the time being, the only way to apply a custom domain name is by removing HTTPS as of the previous version. 
+Hoping Github developers will give its users the ability to add a custom domain served under security.~~
 
-    @import "{{ site.theme }}";
-    ```
-3. Add any custom CSS (or Sass, including imports) you'd like immediately after the `@import` line
+### Version 1.2 (1/31/2017)
 
-*Note: If you'd like to change the theme's Sass variables, you must set new values before the `@import` line in your stylesheet.*
+* Fixed footer code so that the twitter icon links to the twitter_username instead of instagram_username.
 
-### Layouts
+### Version 1.1 (7/15/2016)
 
-If you'd like to change the theme's HTML layout:
+* Improved galleries and search section.
+* Better rendering of the header text.
 
-1. For some changes such as a custom `favicon`, you can add custom files in your local `_includes` folder. The files [provided with the theme](https://github.com/pages-themes/dinky/tree/master/_includes) provide a starting point and are included by the [original layout template](https://github.com/pages-themes/dinky/blob/master/_layouts/default.html).
-2. For more extensive changes, [copy the original template](https://github.com/pages-themes/dinky/blob/master/_layouts/default.html) from the theme's repository<br />(*Pro-tip: click "raw" to make copying easier*)
-3. Create a file called `/_layouts/default.html` in your site
-4. Paste the default layout content copied in the first step
-5. Customize the layout as you'd like
+### Version 1.0 (6/19/2016)
+* Initial Template
 
-### Customizing Google Analytics code
+----------
 
-Google has released several iterations to their Google Analytics code over the years since this theme was first created. If you would like to take advantage of the latest code, paste it into `_includes/head-custom-google-analytics.html` in your Jekyll site.
+ **IMPORTANT!!!**
+================
 
-### Overriding GitHub-generated URLs
+### Before you begin: Change the URL and the BASEURL as well as the internal nav links in the _config.yml
 
-Templates often rely on URLs supplied by GitHub such as links to your repository or links to download your project. If you'd like to override one or more default URLs:
+The **URL** should say `https://yourusername.github.io`
 
-1. Look at [the template source](https://github.com/pages-themes/dinky/blob/master/_layouts/default.html) to determine the name of the variable. It will be in the form of `{{ site.github.zip_url }}`.
-2. Specify the URL that you'd like the template to use in your site's `_config.yml`. For example, if the variable was `site.github.url`, you'd add the following:
-    ```yml
-    github:
-      zip_url: http://example.com/download.zip
-      another_url: another value
-    ```
-3. When your site is built, Jekyll will use the URL you specified, rather than the default one provided by GitHub.
+The **BASEURL** should say `/repositoryname`
 
-*Note: You must remove the `site.` prefix, and each variable name (after the `github.`) should be indent with two space below `github:`.*
+**Internal nav** should say
 
-For more information, see [the Jekyll variables documentation](https://jekyllrb.com/docs/variables/).
+  nav:
 
-## Roadmap
+  - GALLERY: `"https://yourusername.github.io/repositoryname/gallery/"`
+  - JOURNAL: `"https://yourusername.github.io/repositoryname/journal/"`
+  - ABOUT: `"https://yourusername.github.io/repositoryname/about/`"
 
-See the [open issues](https://github.com/pages-themes/dinky/issues) for a list of proposed features (and known issues).
+If there are problems with loading assets like CSS files and images, make sure that both **URL** and **BASEURL** are set correctly!!! 
 
-## Project philosophy
+----------
 
-The Dinky theme is intended to make it quick and easy for GitHub Pages users to create their first (or 100th) website. The theme should meet the vast majority of users' needs out of the box, erring on the side of simplicity rather than flexibility, and provide users the opportunity to opt-in to additional complexity if they have specific needs or wish to further customize their experience (such as adding custom CSS or modifying the default layout). It should also look great, but that goes without saying.
+~~**NOT FOR HTTPS served repos!!!**~~
+==================================
 
-## Contributing
+~~* Applies for v1.2!~~
 
-Interested in contributing to Dinky? We'd love your help. Dinky is an open source project, built one contribution at a time by users like you. See [the CONTRIBUTING file](docs/CONTRIBUTING.md) for instructions on how to contribute.
+If you want to use your **own domain** go to the root of your project's repository, create a CNAME file and add a line with your domain name, e.g. `www.yourdomain.com`.
 
-### Previewing the theme locally
+Go to your domain name registrar and add a CNAME record pointing your domain to GitHub Pages:
+- type: CNAME
+- host: www.yourdomainname.com
+- answer: yourusername.github.io/repositoryname
+- TTL: 300
 
-If you'd like to preview the theme locally (for example, in the process of proposing a change):
+----------
 
-1. Clone down the theme's repository (`git clone https://github.com/pages-themes/dinky`)
-2. `cd` into the theme's directory
-3. Run `script/bootstrap` to install the necessary dependencies
-4. Run `bundle exec jekyll serve` to start the preview server
-5. Visit [`localhost:4000`](http://localhost:4000) in your browser to preview the theme
+Usage
+============ 
 
-### Running tests
+###Quick Start
 
-The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` once before the test script will work.
+1. [Fork this repository](https://github.com/sunbliss/photorama/fork) to get started. 
+2. Go to `https://github.com/yourusername/photorama/settings`
+3. Rename the repository to your new project, e.g. *myphotoblog*
+2. Create a new branch called `gh-pages` in your repository. 
+3. Go to the branches directory at `https://github.com/yourusername/repositoryname/branches` and *change* **default branch** to **gh-pages**.
+4. Delete **master** branch. 
+3. GitHub will build your site automatically and publish it at `https://yourusername.github.io/repositoryname/`.  
+
+----------
+
+- The homepage welcomes the visitors with 3 animated photos of your choice. It is recommended that all three are landscape orientated for best view.
+
+To change the welcome content at the far left of the Home page go here: `/index.html` and fill the responding lines of the YAML with your desired text.
+
+----------
+
+- To enable **disqus** comments in the posts, change their front matter for comments to 'true'.
+
+You must have a registered account in disqus, where you will also register a forum for your website.
+
+Find the line `s.src = '//yourproject.disqus.com/embed.js';  // ` in the disqus_comments.html and REPLACE 'yourproject' with your forum shortname.
+
+----------
+
+- In order to send **newsletters** about your posts to your subscribers, you should register an account in [tinyletter](http://www.tinyletter.com " tinyletter").
+
+Find the line `'https://tinyletter.com/yourproject', ` in the *newsletter.html* and replace 'yourproject' with your registered website.
+
+You can always ommit the newsletter rendering by deleting the line `{% include newsletter.html %}
+` in the *default.html* layout.
+
+----------
+
+If you want to use the matching **NEWSLETTER** template, you must always create a new file  by copying its respective index.html and renaming it to e.g. 2016-March-newsletter.html and then save it inside the folder and the accompanying images inside the 'images folder', so it can be accessed to your viewers through their browser. In this case the root url for the above newsletter will be ***http://yourgithubusername.github.io/yourproject/2016-March-newsletter.html***. Copy this link and replace this part of the code `http://www.yoursite.com/newsletter/year-month-newsletter` with it.
+
+----------
+
+**TAGS** and **CATEGORIES** of the posts 
+
+When you add a tag or a category name in the front matter of a post, don't forget to add the responding markdown files in /journal/tag/ folder and in /journal/category folder, so they can always render when browsing the journal or searching in the respective page.
+
+----------
+
+All the credits and the helpers can be found at **ABOUT** page.
+
+
+----------
+
+Read <a href="https://sunbliss.github.io/photorama/journal/images-size-for-better-performance/">**this**</a> post if you want to ensure your website always loads fast.
+
+
+----------
+
+I hope you will find it useful for your projects, photographic or not.
+
+
+----------
+
+
+##License
+
+The MIT License (MIT)
+
+Copyright (c) 2014 Filippo Oretti, Dario Andrei
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
