@@ -1,21 +1,17 @@
 # Site settings
 title: PHOTORAMA
-email: ""
+email: "chuck.brant@gmail.com"
 description: "Photo Journal"
 url: "https://cbrant.github.io"
 baseurl: "/"
-facebook_username: ""
 twitter_username: ""
 instagram_username: "photos4chuck"
 github_username:  "chuckbrant"
-deviantart_username: ""
-flickr_username: ""
-discus_shortname: ""
 share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   Chuck Brant
   avatar: avatar.png
   favicon: favicon.ico
   info: photography website template
