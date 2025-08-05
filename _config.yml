@@ -1,5 +1,5 @@
 # Site settings
-title: PHOTORAMA
+title: Chuck Brant
 email: "chuck.brant@gmail.com"
 description: "Photo Journal"
 url: "https://cbrant.github.io"
@@ -14,7 +14,7 @@ owner:
   name:   Chuck Brant
   avatar: avatar.png
   favicon: favicon.ico
-  info: photography website template
+  info: photography website 
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
@@ -22,10 +22,10 @@ owner:
 #Set 'provider: false' to disable comments globally.
 # Disable comments for individual pages/posts by specifying 'comments: false' in the page/post YAML Front Matter.
 #
-comments :
-  provider : disqus
-  disqus :
-    short_name : ""
+#comments :
+#  provider : disqus
+#  disqus :
+#    short_name : ""
 
 # Internal nav
 nav:
