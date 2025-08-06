@@ -8,6 +8,7 @@ baseurl: "/"
 #twitter_username: ""
 instagram_username: "photos4chuck"
 github_username:  "chuckbrant"
+linkedin_username: "chuck-brant-6350832"
 #deviantart_username: ""
 #flickr_username: ""
 #discus_shortname: ""
@@ -28,10 +29,10 @@ owner:
 #Set 'provider: false' to disable comments globally.
 # Disable comments for individual pages/posts by specifying 'comments: false' in the page/post YAML Front Matter.
 #
-comments :
-  provider : disqus
-  disqus :
-    short_name : ""
+#comments :
+#  provider : disqus
+#  disqus :
+#    short_name : ""
 
 # Internal nav
 nav:
