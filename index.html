@@ -44,41 +44,31 @@ images:
 
 <!-- MAIN CONTENT SECTION  _____________________________________________-->
 	<section id="content" role="main">
-		<div class="wrapper">
+	               <div class="wrapper">
 
-			<!-- WYSIWYG -->
+                        <!-- Gallery __-->
+                        <div class="gallery masonry-gallery">
 
-		<div class="position-absolute">
-				<h2 class="big no-margin"><strong>{{ page.main-title }}</strong></h2>
-				<h2>{{ page.subtitle }}</h2> 
-                     <div class="entry-summary">
-							<p>{{ page.description }}</p>
-						</div><br />
-			</div>
-			
-			<div class="gallery fullscreen-gallery kenburns-gallery">
+{% for image in page.images %}
 
-				<canvas id="kenburns"></canvas>
-				
-{% for image in page.images %}  	
+                       <figure class="gallery-item">
+                         <figure class="effect-selena">
+                                        <header class='gallery-icon'>
 
-				<figure class="gallery-item">
-					<header class='gallery-icon'>
-
-<a href="{{ site.url }}{{ site.baseurl }}{{ image.gallery-folder }}">
+<a href="{{ image.gallery-cloud }}">
 <img src="{{ site.url }}{{ site.baseurl }}{{ image.image_path }}"></a>
-	
-				</header>	
-				</figure>
+
+                                                <div class="entry-summary">
+                                                </div>
+                                        </figcaption>
+                       </figure>
+                                </figure>
 
 {% endfor %}
 
-				</div>
-			<!-- END WYSIWYG -->
-			
-	
-		</div><!-- END .wrapper -->
-		
+                        </div>
+
+                </div><!-- END .wrapper -->	
 	</section>
 
 <div id="footer" role="contentinfo">
