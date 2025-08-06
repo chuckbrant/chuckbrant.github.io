@@ -62,6 +62,8 @@ permalink: "/travel/:title/"
 gems: 
  - jekyll-paginate
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+plugins:
+  - jekyll-paginate
 
 # SiteMap
 sitemap:
