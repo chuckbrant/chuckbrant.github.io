@@ -38,7 +38,7 @@ a img:focus {
   outline: none;
 }
 blockquote {
-  color: #808080;
+  color: #000080;
   font-style: italic;
 }
 hr.small {
@@ -233,7 +233,7 @@ hr.small {
   margin-bottom: 10px;
 }
 .post-preview > .post-meta {
-  color: #808080;
+  color: #000000;
   font-size: 18px;
   font-style: italic;
   margin-top: 0;
@@ -377,7 +377,7 @@ form .row:first-child .floating-label-form-group {
 .pager .disabled > a:hover,
 .pager .disabled > a:focus,
 .pager .disabled > span {
-  color: #808080;
+  color: #000000;
   background-color: #404040;
   cursor: not-allowed;
 }
