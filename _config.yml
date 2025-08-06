@@ -37,8 +37,8 @@ owner:
 
 # Internal nav
 nav:
-  - GALLERY: "https://chuckbrant.github.io/gallery/"  
-  - Travel: "https://chuckbrant.github.io/travel/"
+#  - GALLERY: "https://chuckbrant.github.io/gallery/"  
+#  - Travel: "https://chuckbrant.github.io/travel/"
   - ABOUT: "https://chuckbrant.github.io/about/"
   - HOME: "https://chuckbrant.github.io/"
 
