@@ -4,18 +4,10 @@ main-title: "Chuck Brant"
 subtitle: "Photo Journal"
 description: "  "
 images:
- - image_path: /gallery/photo/Santorini.jpg
-   gallery-cloud: https://www.icloud.com/sharedalbum/#B0lGeA5r4Rnfsk
-   gallery-name: Santorini, Greece
-   gallery-date: May 2024
- - image_path: /gallery/photo/Mykonos.jpg
-   gallery-cloud: https://www.icloud.com/sharedalbum/#B0lJOFSVFGETMWy
-   gallery-name: Mykonos, Greece
-   gallery-date: April 2024
- - image_path: /gallery/photo/Athens.jpg
-   gallery-cloud: https://www.icloud.com/sharedalbum/#B0lGFqhgJp9eoh
-   gallery-name: Athens, Greece
-   gallery-date: April 2024
+ - image_path: /img/slider/home03.jpg
+   gallery-folder: /img/slider/
+ - image_path: /img/slider/home04.jpg
+   gallery-folder: /img/slider/
 ---
 
 
