@@ -8,13 +8,14 @@ dir=${basename%.*}
 echo $dir
 index="${dir//[^0-9]/}"
 echo $index
+
 mkdir gallery$index
 
 cat template/index.html | sed s/inserthere/$dir/ > gallery$index/index.html
 
 #make homepage
 echo " - image_path: /gallery/photo/$basename" >> ../index.html
-echo "   gallery-cloud: /gallery/$dir/" >> ../index.html
+echo "   gallery-cloud: /gallery/gallery$index/" >> ../index.html
 
 
 done
