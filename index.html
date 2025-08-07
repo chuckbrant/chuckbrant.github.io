@@ -5,96 +5,115 @@ description: "Learning to Capture the Moment"
 active: gallery
 header-img: "img/bg.png"
 images:
- - image_path: /gallery/photo/Santorini.jpg
-   gallery-cloud: /gallery/gallery01
-   gallery-name: Santorini, Greece
-   gallery-date: May 2024
- - image_path: /gallery/photo/Mykonos.jpg
-   gallery-cloud: /gallery/gallery02
-   gallery-name: Mykonos, Greece
-   gallery-date: April 2024
- - image_path: /gallery/photo/Athens.jpg
-   gallery-cloud: /gallery/gallery03
-   gallery-name: Athens, Greece
-   gallery-date: April 2024
- - image_path: /gallery/photo/Nafpaktos.jpg
-   gallery-cloud: /gallery/gallery04
-   gallery-name: Nafpaktos, Greece
-   gallery-date: April 2024
- - image_path: /gallery/photo/Kalambaka.jpg
-   gallery-cloud: /gallery/gallery05
-   gallery-name: Kalambaka, Greece
-   gallery-date: April 2024
- - image_path: /gallery/photo/sunrise2024.jpg
-   gallery-cloud: /gallery/gallery06
-   gallery-name: Sunrise at Union Point Park, New Bern NC
-   gallery-date: March 2024
- - image_path: /gallery/photo/bridgepointe.jpg
-   gallery-cloud: /gallery/gallery07
-   gallery-name: Bridgepointe, New Bern
-   gallery-date: February 2024
-
----
-
-<html class="no-js" lang="en">
-<head>
-	<meta content="charset=utf-8">
-    <link rel="stylesheet" href="{{ "/css/selena.css" | prepend: site.baseurl }}">
-</head>
-
-
-    <body class="gallery">
- 
-	<section id="content" role="main">
-		<div class="wrapper">
-	
-			<!-- Gallery __-->
-			<div class="gallery masonry-gallery">
-				
-{% for image in page.images %}  	
-
-	               <figure class="gallery-item">
-                         <figure class="effect-selena">
-					<header class='gallery-icon'>
-		       
-<a href="{{ image.gallery-cloud }}">
-<img src="{{ site.url }}{{ site.baseurl }}{{ image.image_path }}"></a>
-
-					</header>	
-					<figcaption class='gallery-caption'>
-						<div class="entry-summary">
-							<h3>{{image.gallery-name}}</h3>
-							<p>{{image.gallery-date}}</p>
-						</div>
-					</figcaption>
-                       </figure>
-				</figure>
-							
-{% endfor %}		
-				
-			</div>
-			
-		</div><!-- END .wrapper -->
-	</section>
-
-
-<br>
-
-<!-- jQuery -->    
-
-<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script src="{{ site.baseurl }}/js/retina.min.js"></script>
-<!-- include Masonry -->
-<script src="{{ site.baseurl }}/js/isotope.pkgd.min.js"></script> 
-<!-- include mousewheel plugins -->
-<script src="{{ site.baseurl }}/js/jquery.mousewheel.min.js"></script>
-<!-- include carousel plugins -->
-<script src="{{ site.baseurl}}/js/jquery.tinycarousel.min.js"></script>
-<!-- include svg line drawing plugin -->
-<script src="{{ site.baseurl }}/js/jquery.lazylinepainter.min.js"></script>
-<!-- include custom script -->
-<script src="{{ site.baseurl }}/js/scripts.js"></script>
-<!-- Modernizr -->
- <script src="{{ site.baseurl }}/js/modernizr.js"></script>
-
-</body></html>
+ - image_path: /gallery/photo/photo01.jpg
+   gallery-cloud: /gallery/photo01
+ - image_path: /gallery/photo/photo02.jpg
+   gallery-cloud: /gallery/photo02
+ - image_path: /gallery/photo/photo03.jpg
+   gallery-cloud: /gallery/photo03
+ - image_path: /gallery/photo/photo04.jpg
+   gallery-cloud: /gallery/photo04
+ - image_path: /gallery/photo/photo05.jpg
+   gallery-cloud: /gallery/photo05
+ - image_path: /gallery/photo/photo06.jpg
+   gallery-cloud: /gallery/photo06
+ - image_path: /gallery/photo/photo07.jpg
+   gallery-cloud: /gallery/photo07
+ - image_path: /gallery/photo/photo08.jpg
+   gallery-cloud: /gallery/photo08
+ - image_path: /gallery/photo/photo09.jpg
+   gallery-cloud: /gallery/photo09
+ - image_path: /gallery/photo/photo10.jpg
+   gallery-cloud: /gallery/photo10
+ - image_path: /gallery/photo/photo11.jpg
+   gallery-cloud: /gallery/photo11
+ - image_path: /gallery/photo/photo12.jpg
+   gallery-cloud: /gallery/photo12
+ - image_path: /gallery/photo/photo13.jpg
+   gallery-cloud: /gallery/photo13
+ - image_path: /gallery/photo/photo14.jpg
+   gallery-cloud: /gallery/photo14
+ - image_path: /gallery/photo/photo15.jpg
+   gallery-cloud: /gallery/photo15
+ - image_path: /gallery/photo/photo16.jpg
+   gallery-cloud: /gallery/photo16
+ - image_path: /gallery/photo/photo17.jpg
+   gallery-cloud: /gallery/photo17
+ - image_path: /gallery/photo/photo18.jpg
+   gallery-cloud: /gallery/photo18
+ - image_path: /gallery/photo/photo19.jpg
+   gallery-cloud: /gallery/photo19
+ - image_path: /gallery/photo/photo20.jpg
+   gallery-cloud: /gallery/photo20
+ - image_path: /gallery/photo/photo21.jpg
+   gallery-cloud: /gallery/photo21
+ - image_path: /gallery/photo/photo22.jpg
+   gallery-cloud: /gallery/photo22
+ - image_path: /gallery/photo/photo23.jpg
+   gallery-cloud: /gallery/photo23
+ - image_path: /gallery/photo/photo24.jpg
+   gallery-cloud: /gallery/photo24
+ - image_path: /gallery/photo/photo25.jpg
+   gallery-cloud: /gallery/photo25
+ - image_path: /gallery/photo/photo26.jpg
+   gallery-cloud: /gallery/photo26
+ - image_path: /gallery/photo/photo27.jpg
+   gallery-cloud: /gallery/photo27
+ - image_path: /gallery/photo/photo28.jpg
+   gallery-cloud: /gallery/photo28
+ - image_path: /gallery/photo/photo29.jpg
+   gallery-cloud: /gallery/photo29
+ - image_path: /gallery/photo/photo30.jpg
+   gallery-cloud: /gallery/photo30
+ - image_path: /gallery/photo/photo31.jpg
+   gallery-cloud: /gallery/photo31
+ - image_path: /gallery/photo/photo32.jpg
+   gallery-cloud: /gallery/photo32
+ - image_path: /gallery/photo/photo33.jpg
+   gallery-cloud: /gallery/photo33
+ - image_path: /gallery/photo/photo34.jpg
+   gallery-cloud: /gallery/photo34
+ - image_path: /gallery/photo/photo35.jpg
+   gallery-cloud: /gallery/photo35
+ - image_path: /gallery/photo/photo36.jpg
+   gallery-cloud: /gallery/photo36
+ - image_path: /gallery/photo/photo37.jpg
+   gallery-cloud: /gallery/photo37
+ - image_path: /gallery/photo/photo38.jpg
+   gallery-cloud: /gallery/photo38
+ - image_path: /gallery/photo/photo39.jpg
+   gallery-cloud: /gallery/photo39
+ - image_path: /gallery/photo/photo40.jpg
+   gallery-cloud: /gallery/photo40
+ - image_path: /gallery/photo/photo41.jpg
+   gallery-cloud: /gallery/photo41
+ - image_path: /gallery/photo/photo42.jpg
+   gallery-cloud: /gallery/photo42
+ - image_path: /gallery/photo/photo43.jpg
+   gallery-cloud: /gallery/photo43
+ - image_path: /gallery/photo/photo44.jpg
+   gallery-cloud: /gallery/photo44
+ - image_path: /gallery/photo/photo45.jpg
+   gallery-cloud: /gallery/photo45
+ - image_path: /gallery/photo/photo46.jpg
+   gallery-cloud: /gallery/photo46
+ - image_path: /gallery/photo/photo47.jpg
+   gallery-cloud: /gallery/photo47
+ - image_path: /gallery/photo/photo48.jpg
+   gallery-cloud: /gallery/photo48
+ - image_path: /gallery/photo/photo49.jpg
+   gallery-cloud: /gallery/photo49
+ - image_path: /gallery/photo/photo50.jpg
+   gallery-cloud: /gallery/photo50
+ - image_path: /gallery/photo/photo51.jpg
+   gallery-cloud: /gallery/photo51
+ - image_path: /gallery/photo/photo52.jpg
+   gallery-cloud: /gallery/photo52
+ - image_path: /gallery/photo/photo53.jpg
+   gallery-cloud: /gallery/photo53
+ - image_path: /gallery/photo/photo54.jpg
+   gallery-cloud: /gallery/photo54
+ - image_path: /gallery/photo/photo55.jpg
+   gallery-cloud: /gallery/photo55
+ - image_path: /gallery/photo/photo56.jpg
+   gallery-cloud: /gallery/photo56

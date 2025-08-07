@@ -1,6 +1,6 @@
 
 rm -rf gallery*
-cat template/hometop.html > ../home.html
+cat template/hometop.html > ../index.html
 for photo in `ls photo/*.jpg`; do
         echo "Processing $photo"
 basename="$(basename "$photo")"
@@ -13,8 +13,8 @@ mkdir gallery$index
 cat template/index.html | sed s/inserthere/$dir/ > gallery$index/index.html
 
 #make homepage
-echo " - image_path: /gallery/photo/$basename" >> ../home.html
-echo "   gallery-cloud: /gallery/$dir" >> ../home.html
+echo " - image_path: /gallery/photo/$basename" >> ../index.html
+echo "   gallery-cloud: /gallery/$dir" >> ../index.html
 
 
 done
