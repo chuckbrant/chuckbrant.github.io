@@ -1,4 +1,8 @@
 
+
+cd photo; for f in *; do mv "$f" "photo$((i++)).jpg"; done; cd ..
+
+
 rm -rf gallery*
 cat template/hometop.html > ../index.html
 for photo in `ls photo/*.jpg`; do
