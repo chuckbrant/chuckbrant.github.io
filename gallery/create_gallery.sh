@@ -14,8 +14,8 @@ cat template/index.html | sed s/inserthere/$dir/ > gallery$index/index.html
 
 #make homepage
 echo " - image_path: /gallery/photo/$basename" >> ../index.html
-echo "   gallery-cloud: /gallery/$dir" >> ../index.html
+echo "   gallery-cloud: /gallery/$dir/" >> ../index.html
 
 
 done
-cat template/homebottom.html >> ../home.html
+cat template/homebottom.html >> ../index.html
