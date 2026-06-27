@@ -122,14 +122,16 @@
 
 			$masonry_gallery.each( function(index, element) {
 				var $masonry_items = $(element).find('.gallery-item');
-			
-				// set masonry layout
-				$(element).isotope({
-					masonry: { columnWidth: $(element).find('.gallery-item')[0] },
-					itemSelector: '.gallery-item'
+
+				// set masonry layout after images are loaded so heights are known
+				$(element).imagesLoaded( function() {
+					$(element).isotope({
+						masonry: { columnWidth: $(element).find('.gallery-item')[0] },
+						itemSelector: '.gallery-item'
+					});
+					$(element).isotope('layout');
 				});
-				$(element).isotope('layout');
-					
+
 				// filtering
 				jQuery('#gallery-filter li a').on('click', function(){
 					jQuery('#gallery-filter li a').removeClass('active');
