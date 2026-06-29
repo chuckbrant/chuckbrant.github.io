@@ -3,7 +3,7 @@
 /***** Selena *****/
 /*-----------------*/
 
-figure.effect-selena {
+figure.effect-selena:hover {
 	background: #530720;
 }
 
