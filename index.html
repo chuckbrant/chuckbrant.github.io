@@ -242,7 +242,7 @@ images:
 					<header class='gallery-icon'>
 		       
 <a href="{{ image.gallery-cloud }}">
-<img src="{{ site.url }}{{ site.baseurl }}{{ image.image_path }}"></a>
+<img src="{{ site.url }}{{ site.baseurl }}{{ image.image_path | replace: '/photo/', '/thumb/' }}"></a>
 
 					</header>	
 					<figcaption class='gallery-caption'>
