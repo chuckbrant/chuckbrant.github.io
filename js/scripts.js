@@ -105,17 +105,17 @@
 	
 	
 	
-	/* ********* WINDOW LOAD ********** */
-	jQuery(window).load(function() {
-	
+	/* ********* DOCUMENT READY ********** */
+	jQuery(document).ready(function() {
+
 		// load screen
 		jQuery('.loadreveal').addClass('reveal');
 		jQuery('#loadscreen').stop().animate( { opacity: 0 }, 200, function() {
 			jQuery('body.home').removeClass('loading');
 			jQuery(this).hide();
 		});
-	
-	
+
+
 		// masonry gallery
 		var $masonry_gallery = jQuery('.masonry-gallery.gallery');
 		if ( $masonry_gallery.length > 0 ) {
@@ -123,13 +123,10 @@
 			$masonry_gallery.each( function(index, element) {
 				var $masonry_items = $(element).find('.gallery-item');
 
-				// set masonry layout after images are loaded so heights are known
-				$(element).imagesLoaded( function() {
-					$(element).isotope({
-						masonry: { columnWidth: $(element).find('.gallery-item')[0] },
-						itemSelector: '.gallery-item'
-					});
-					$(element).isotope('layout');
+				// initialize Isotope on DOM ready; imagesLoaded not available in this bundle
+				$(element).isotope({
+					masonry: { columnWidth: $(element).find('.gallery-item')[0] },
+					itemSelector: '.gallery-item'
 				});
 
 				// filtering
@@ -152,11 +149,16 @@
 					$masonry_items.toggleClass(jQuery(this).closest('li').attr('class'));
 					$masonry_gallery.isotope('layout');
 				});
-			
+
+			});
+
+			// relayout once all images have loaded so heights are correct
+			jQuery(window).on('load', function() {
+				$masonry_gallery.isotope('layout');
 			});
 		}
 
-		
+
 		// before-after
 		var $before_after = jQuery('.before-after.gallery');
 		if ( $before_after.length > 0 ) {
@@ -172,13 +174,13 @@
 		// changing blog layout
 		var $blog_layout = jQuery('#blog-timeline');
 		if ( $blog_layout.length > 0 ) {
-	
+
 			jQuery('#grid-changer li a').on('click', function(){
 				jQuery('#grid-changer li a').removeClass('active');
 				jQuery(this).toggleClass('active');
 
 				$blog_layout.closest('.wrapper').toggleClass('blog-masonry');
-				
+
 				if ( $blog_layout.closest('.wrapper').hasClass('blog-masonry') ) {
 					jQuery('#blog-post').animate({'left': '100%'}, 400, function() {
 						// set masonry layout
@@ -193,7 +195,7 @@
 				else {
 					jQuery('#blog-post').show().animate({'left': '0'}, 400 );
 					$blog_layout.isotope('destroy');
-					
+
 					if ( $masonry_gallery.length > 0 ) {
 						$masonry_gallery.isotope('layout');
 					}
