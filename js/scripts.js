@@ -152,16 +152,18 @@
 
 			});
 
-			// relayout once all images have loaded so heights are correct
-			// If images are already cached, window 'load' may have already fired
-			// before this handler is bound, so check readyState first.
-			if (document.readyState === 'complete') {
-				$masonry_gallery.isotope('layout');
-			} else {
-				jQuery(window).on('load', function() {
+			// Relayout as each image loads so masonry heights are correct.
+			// Bind 'load' on each img; for already-cached images that are already
+			// complete, trigger manually since the load event will never fire.
+			$(element).find('img').each(function() {
+				var img = this;
+				$(img).on('load', function() {
 					$masonry_gallery.isotope('layout');
 				});
-			}
+				if (img.complete && img.naturalHeight !== 0) {
+					$masonry_gallery.isotope('layout');
+				}
+			});
 		}
 
 
