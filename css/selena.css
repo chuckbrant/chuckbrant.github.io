@@ -3,12 +3,18 @@
 /***** Selena *****/
 /*-----------------*/
 
+figure.effect-selena {
+	overflow: hidden;
+}
+
 figure.effect-selena:hover {
 	background: #530720;
 }
 
 figure.effect-selena img {
-     cursor: default;
+	display: block;
+	width: 100%;
+	cursor: default;
 	opacity: 1;
 	-webkit-transition: -webkit-transform 0.35s;
 	transition: transform 0.35s;
