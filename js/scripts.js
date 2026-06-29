@@ -153,9 +153,15 @@
 			});
 
 			// relayout once all images have loaded so heights are correct
-			jQuery(window).on('load', function() {
+			// If images are already cached, window 'load' may have already fired
+			// before this handler is bound, so check readyState first.
+			if (document.readyState === 'complete') {
 				$masonry_gallery.isotope('layout');
-			});
+			} else {
+				jQuery(window).on('load', function() {
+					$masonry_gallery.isotope('layout');
+				});
+			}
 		}
 
 
