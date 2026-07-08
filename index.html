@@ -5,6 +5,15 @@ description: "Learning to Capture the Moment"
 active: gallery
 header-img: "img/bg.png"
 images:
+ - image_path: /gallery/photo/625806E1-0220-4E53-BA36-26711805483D.jpg
+   gallery-cloud: /gallery/625806E1-0220-4E53-BA36-26711805483D/
+   gallery-date: "July 01, 2026"
+ - image_path: /gallery/photo/F83C034A-132E-47F1-BC8D-6DAD928E0F95.jpg
+   gallery-cloud: /gallery/F83C034A-132E-47F1-BC8D-6DAD928E0F95/
+   gallery-date: "July 01, 2026"
+ - image_path: /gallery/photo/A3904EEE-A87B-49FC-8D04-13D8452A6976.jpg
+   gallery-cloud: /gallery/A3904EEE-A87B-49FC-8D04-13D8452A6976/
+   gallery-date: "July 01, 2026"
  - image_path: /gallery/photo/71F76B5B-2140-4146-A7E5-CB35F1F4507F.jpg
    gallery-cloud: /gallery/71F76B5B-2140-4146-A7E5-CB35F1F4507F/
    gallery-date: "February 19, 2026"
@@ -38,9 +47,6 @@ images:
  - image_path: /gallery/photo/809260AC-8AEF-44F5-B778-8479B76E654A.jpg
    gallery-cloud: /gallery/809260AC-8AEF-44F5-B778-8479B76E654A/
    gallery-date: "November 09, 2025"
- - image_path: /gallery/photo/B24A504A-D839-4762-B84F-E4E85CA33052.jpg
-   gallery-cloud: /gallery/B24A504A-D839-4762-B84F-E4E85CA33052/
-   gallery-date: "October 24, 2025"
  - image_path: /gallery/photo/3968E035-55BA-49E5-A869-39F352ECE607.jpg
    gallery-cloud: /gallery/3968E035-55BA-49E5-A869-39F352ECE607/
    gallery-date: "October 18, 2025"
@@ -158,9 +164,6 @@ images:
  - image_path: /gallery/photo/F46405C5-DDC6-4FD6-A98C-83EDF6BF5899.jpg
    gallery-cloud: /gallery/F46405C5-DDC6-4FD6-A98C-83EDF6BF5899/
    gallery-date: "April 12, 2024"
- - image_path: /gallery/photo/E1C486D4-CEF0-4FEE-B654-446A687274D6.jpg
-   gallery-cloud: /gallery/E1C486D4-CEF0-4FEE-B654-446A687274D6/
-   gallery-date: "April 07, 2024"
  - image_path: /gallery/photo/9EAE7BFC-18AF-490C-AD69-DD14B0CAA163.jpg
    gallery-cloud: /gallery/9EAE7BFC-18AF-490C-AD69-DD14B0CAA163/
    gallery-date: "March 22, 2024"
@@ -242,7 +245,7 @@ images:
 					<header class='gallery-icon'>
 		       
 <a href="{{ image.gallery-cloud }}">
-<img src="{{ site.url }}{{ site.baseurl }}{{ image.image_path | replace: '/photo/', '/thumb/' }}"></a>
+<img src="{{ site.url }}{{ site.baseurl }}{{ image.image_path }}"></a>
 
 					</header>	
 					<figcaption class='gallery-caption'>
