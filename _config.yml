@@ -1,0 +1,85 @@
+# Site settings
+title: Chuck Brant
+email: "chuck.brant@gmail.com"
+description: "Travel Photo Journal"
+url: "https://chuckbrant.github.io"
+baseurl: "/"
+#facebook_username: "cbrant.200"
+#twitter_username: ""
+instagram_username: "photos4chuck"
+github_username:  "chuckbrant"
+linkedin_username: "chuck-brant-6350832"
+#deviantart_username: ""
+#flickr_username: ""
+#discus_shortname: ""
+share: true
+unpublished: true
+future: true
+pic1: "Santorini.jpg"
+
+# Owner/author information
+owner:
+  name:   Wendi & Chuck Brant
+  avatar: avatar2.png
+  favicon: favicon.ico
+  info: photography & travel
+
+# Settings for comments helper
+# Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
+# Set 'provider' to false to turn commenting off globally.
+#Set 'provider: false' to disable comments globally.
+# Disable comments for individual pages/posts by specifying 'comments: false' in the page/post YAML Front Matter.
+#
+#comments :
+#  provider : disqus
+#  disqus :
+#    short_name : ""
+
+# Internal nav
+nav:
+  - ABOUT: "https://chuckbrant.github.io/about/"
+  - GALLERY: "https://chuckbrant.github.io/gallery/"
+  - TRAVEL: "https://chuckbrant.github.io/travel/"
+  - HOME: "https://chuckbrant.github.io/"
+
+# All translation keys
+translations:
+ # 404.html
+  permalink: "/404.html"
+
+# Server
+destination:      	 ./_site
+port:             	 4000
+
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 10
+paginate_path: "/travel/page:num/"
+permalink: "/travel/:title/"
+#categories_path: "/travel/category/"
+#tags_path: "/travel/tag/"
+gems:
+ - jekyll-paginate
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+plugins:
+  - jekyll-paginate
+
+# Travel journal entries (published by the Travel Journal iOS app)
+collections:
+  travel_entries:
+    output: false
+
+# SiteMap
+sitemap:
+    file: "/sitemap.xml"
+    exclude:
+        - "/atom.xml"
+        - "/feed.xml"
+        - "/feed/index.xml"
+    include_posts:
+        - "/travel/"
+    change_frequency_name: "change_frequency"
+    priority_name: "priority"
