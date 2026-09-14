@@ -1,5 +1,5 @@
 ---
-title: "Day 3: Cross Lake Como to Bellagio and quick trip to Switzerland. 0"
+title: "Day 3: Cross Lake Como to Bellagio and quick trip to Switzerland."
 date: 2026-09-14T00:00:00+02:00
 hero_image: /travel/photo/2026-09-14-day-3-cross-lake-como-to-bellagio-and-quick-trip-to-switzerland-0/hero.jpg
 images:
